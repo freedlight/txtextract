@@ -1,0 +1,189 @@
+=======================================================================
+		CVT text conversion API Documentation - 08/26/93
+=======================================================================
+
+
+-----------
+To use CVT:
+-----------
+
+Normal conversion:
+	1) allocate a memory block
+	2) build a global data block
+	3) call ConvertText()
+	4) check error return codes
+
+File test only:
+	1) build a global data block (set glob.testonly = 1)
+	2) call ConvertText()
+	3) check error returns and data in global data block
+
+-------------------
+ASCII parsing rules
+-------------------
+
+	* Only new lines are passed - carriage returns are ignored
+	  (except in the case where all end-of-lines are defined by
+	  a carriage return - then, they are converted to new lines).
+
+	* Since the proposed destination is a GUI text box field, no
+	  word wrap is performed.
+
+	* Tabs may be expanded to spaces, depending on config settings.
+
+	* All chars >= 0x80 (extended ASCII) are stripped out.
+
+--------------------
+File types supported
+--------------------
+
+Full conversion:
+
+	WordPerfect for DOS		(5.1)
+	WordPerfect for Mac		(2.0, probably also 1.x)
+	Microsoft Word for DOS
+	Microsoft Word for Windows	(1.x, 2.x)
+	Microsoft Write			(1.0)
+	Microsoft Word for Macintosh	(3.x, 4.x, 5.x)
+	RTF				(1.0)
+	AMI Pro				(2.0, probably also 1.x)
+	straight ASCII
+		NOTE: ASCII file check consists of checking for non-printing
+			chars in first 256 bytes only.
+
+Identification, but no conversion:
+
+	PostScript (outputs ASCII text)
+	IBM DCA-RFT
+	IBM FFT
+	DisplayWrite			(2, 3, 4, 5)
+
+------------------
+Function prototype
+------------------
+	short ConvertText(CVTPARMS *glob);
+
+----------------
+Structure fields
+----------------
+
+typedef struct {
+	FILE *fi;
+	FILE *fo;
+	char *outp;
+	short ftype;
+	short outcnt;
+	short maxcnt;
+	short overflow;
+	short usetabs;
+	short tabwidth;
+	short testonly;
+	short fileout;
+	char iname[64];
+	char oname[64];
+	char hbuf[HEADSIZE];
+} CVTPARMS;
+
+Inputs to routine:
+
+	glob.outp
+		Pointer to a data block of arbitrary size.
+		Used to pass data back to calling program.
+		Calling program must allocate this block and pass
+		in the pointer.
+
+	glob.maxcnt
+		Size of buffer allocated in glob.outp.
+		Used to determine if file is truncated.
+
+	glob.usetabs
+		0 = convert tabs to spaces
+		1 = output tab chars
+
+	glob.fileout
+		0 = convert into memory buffer
+		1 = output file to disk
+		
+		NOTE: When outputting to disk, entire file is converted
+		regardless of size of buffer. Buffer is filled also, with
+		restriction of buffer size.
+
+	glob.tabwidth
+		Number of spaces to substitute for tabs
+
+	glob.testonly
+		0 = do conversion (normal)
+		1 = check file type and size, do not do conversion
+		
+		Returns file type in glob.ftype and file size (in chars)
+		in glob. outcnt. The file is fully parsed, so other params
+		(glob.usetabs, etc.) will affect the file size returned.
+		glob.outp and glob.maxcnt do NOT need to be initialized
+		to use the testonly mode.
+
+	glob.iname
+		File name to be converted.
+		May be whole path, within 64 char limit.
+
+Used internally:
+
+	glob.fi
+		FILE pointer for input file
+
+	glob.fo
+		FILE pointer for output file
+		Only used if fileout=1
+
+	glob.hbuf
+		Header data from file (first 256 bytes). This is returned
+		in case there is something interesting there.
+
+Returns from routine:
+
+	glob.ftype
+		Returns file type (CVT_...)
+
+	glob.outcnt
+		Automatically initialized to zero
+		Returns the number of chars placed in the buffer.
+
+	glob.overflow
+		Automatically initialized to zero
+
+		If the file is longer than the glob.maxcnt bytes, the buffer
+		is filled, and the flag glob.overflow returns 1. The error
+		code still returns ERR_None. The conversion exits as soon as
+		the buffer is filled.
+
+	glob.oname
+		Name of output file, automatically generated
+		Filename is prefix of input file, with extension of .CVT
+			README.DOC -> README.CVT
+		Only filled if fileout=1
+
+------------------
+Error return codes
+------------------
+
+	ERR_None
+		No error in processing.
+		Be sure to check glob.overflow to see if file was truncated.
+
+	ERR_NoInput
+		Input file not found or cannot be opened (no read permission)
+		
+	ERR_UnknownType
+		Unknown or unidentifiable file format.
+
+	ERR_UnsupportedType
+		Known file format, but cannot be converted.
+
+	ERR_TextNotFound
+		Unable to locate text in file.
+
+	ERR_UnexpectedEOF:
+		End of file encountered while processing text.
+
+	ERR_OutputErr:
+		Error opening or closing output text file; probably due to
+		Disk full, or no write permission.

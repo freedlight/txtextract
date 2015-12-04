@@ -1,0 +1,1378 @@
+[ver]
+	4
+[sty]
+	
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[revisions]
+	0
+[prn]
+	Apple LaserWriter II NTX
+[port]
+	LPT2:
+[lang]
+	1
+[desc]
+	README file for Ami Pro Release 3.0
+	
+	
+	
+	
+	709245105
+	24
+	708049112
+	990
+	5
+	0
+	0
+	0
+	0
+	
+	
+	
+	
+	
+	
+	1
+[fopts]
+	0
+	1
+	0
+	0
+[lnopts]
+	2
+	Body Text
+	1
+[docopts]
+	5
+	2
+[GramStyle]
+	
+[ParaNum]
+	1
+[tag]
+	Body Text
+	2
+	[fnt]
+		Helvetica
+		200
+		0
+		16384
+	[algn]
+		257
+		3
+		0
+		0
+		0
+	[spc]
+		24
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Body Text
+	0
+	0
+[tag]
+	a-head
+	3
+	[fnt]
+		Helvetica
+		240
+		0
+		16385
+	[algn]
+		1
+		3
+		0
+		0
+		0
+	[spc]
+		40
+		280
+		4
+		72
+		72
+		1
+		100
+	[brk]
+		48
+	[line]
+		16
+		2160
+		3
+		0
+		1
+		1
+		1
+		65
+		10
+		1
+	[spec]
+		0
+		1
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	a-head
+	1
+	1
+	3240
+	0
+[tag]
+	b-head
+	4
+	[fnt]
+		Helvetica
+		200
+		0
+		16385
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		40
+		280
+		4
+		72
+		72
+		1
+		100
+	[brk]
+		4
+	[line]
+		16
+		2160
+		3
+		0
+		1
+		1
+		1
+		65
+		10
+		1
+	[spec]
+		0
+		2
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	b-head
+	0
+	0
+[tag]
+	Table Text
+	5
+	[fnt]
+		Helvetica
+		180
+		0
+		16384
+	[algn]
+		257
+		3
+		0
+		0
+		0
+	[spc]
+		40
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		36
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Table Text
+	1
+	1
+	3120
+	0
+[tag]
+	keyboard
+	6
+	[fnt]
+		Helvetica
+		200
+		0
+		16384
+	[algn]
+		1
+		3
+		360
+		0
+		0
+	[spc]
+		40
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		1
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	keyboard
+	0
+	0
+[tag]
+	1st lev para
+	9
+	[fnt]
+		Helvetica
+		200
+		0
+		16384
+	[algn]
+		1
+		3
+		360
+		0
+		0
+	[spc]
+		40
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		1
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	1st lev para
+	0
+	0
+[tag]
+	Numbered List
+	11
+	[fnt]
+		Helvetica
+		200
+		0
+		16384
+	[algn]
+		257
+		3
+		0
+		0
+		360
+	[spc]
+		40
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		36
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		4
+		
+		0
+		1
+		1
+		1
+		2
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Numbered List
+	1
+	1
+	360
+	0
+[tag]
+	bulleted list
+	12
+	[fnt]
+		Helvetica
+		200
+		0
+		16384
+	[algn]
+		257
+		3
+		0
+		0
+		360
+	[spc]
+		40
+		240
+		4
+		0
+		72
+		1
+		100
+	[brk]
+		36
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		5
+		
+		0
+		1
+		1
+		1
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	bulleted list
+	1
+	1
+	360
+	0
+[frm]
+	4
+	536870944
+	883
+	13649
+	1423
+	14069
+	0
+	3
+	3
+	0 0 0 0 0 0 0
+	0
+	16777215
+	7
+	[frmname]
+		Frame7
+	[frmlay]
+		14069
+		540
+		3
+		0
+		0
+		3
+		13649
+		0
+		0
+		2
+		0
+		0
+		2
+		33184
+		1
+		883
+		1423
+		0
+	[isd]
+		.X7
+		.bmp
+		
+		17
+		3
+		0
+		0
+		390
+		65146
+		100
+		0
+		48
+		4
+		3
+		0
+		0
+		16
+		9375
+		24
+		9375
+		32
+		9375
+		40
+		9375
+		48
+		9375
+		56
+		9375
+		390
+		65146
+		0
+		118
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		8
+		9375
+		8
+		9735
+		24
+		9735
+		32
+		9735
+		40
+		9735
+		16
+		9735
+		48
+		9735
+		0
+		0
+		0
+		0
+		0
+		0
+		.bmp
+		0
+		0
+		0
+[frm]
+	4
+	536870944
+	1509
+	13158
+	2004
+	13563
+	0
+	3
+	3
+	0 0 0 0 0 0 0
+	0
+	16777215
+	6
+	[frmname]
+		Frame6
+	[frmlay]
+		13563
+		495
+		3
+		0
+		0
+		3
+		13158
+		0
+		0
+		2
+		0
+		16
+		0
+		33120
+		1
+		1509
+		2004
+		0
+	[isd]
+		.X6
+		.bmp
+		
+		17
+		3
+		0
+		0
+		390
+		65146
+		100
+		0
+		48
+		4
+		3
+		0
+		0
+		16
+		9375
+		24
+		9375
+		32
+		9375
+		40
+		9375
+		48
+		9375
+		56
+		9375
+		390
+		65146
+		0
+		118
+		0
+		0
+		0
+		0
+		0
+		0
+		1
+		0
+		8
+		9375
+		8
+		9735
+		24
+		9735
+		32
+		9735
+		40
+		9735
+		16
+		9735
+		48
+		9735
+		0
+		0
+		0
+		0
+		0
+		0
+		.bmp
+		0
+		0
+		0
+[frm]
+	4
+	536870944
+	883
+	13158
+	1423
+	13563
+	0
+	3
+	3
+	0 0 0 0 0 0 0
+	0
+	16777215
+	5
+	[frmname]
+		Frame5
+	[frmlay]
+		13563
+		540
+		3
+		0
+		0
+		3
+		13158
+		0
+		0
+		2
+		0
+		36
+		129
+		33152
+		1
+		883
+		1423
+		0
+	[isd]
+		.X5
+		.bmp
+		
+		17
+		3
+		0
+		0
+		390
+		65146
+		100
+		0
+		48
+		4
+		3
+		0
+		0
+		16
+		9375
+		24
+		9375
+		32
+		9375
+		40
+		9375
+		48
+		9375
+		56
+		9375
+		390
+		65146
+		0
+		118
+		0
+		0
+		0
+		0
+		0
+		0
+		2
+		0
+		8
+		9375
+		8
+		9735
+		24
+		9735
+		32
+		9735
+		40
+		9735
+		16
+		9735
+		48
+		9735
+		0
+		0
+		0
+		0
+		0
+		0
+		.bmp
+		0
+		0
+		0
+[frm]
+	3
+	1572868
+	840
+	13115
+	6211
+	14155
+	0
+	3
+	3
+	1 0 0 0 0 0 0
+	0
+	16777215
+	4
+	0
+	0
+	4095 2
+	[frmlay]
+		13355
+		5371
+		3
+		0
+		0
+		3
+		13115
+		0
+		0
+		2
+		0
+		0
+		0
+		0
+		1
+		840
+		11400
+		0
+	[tbl]
+		 2 3 240 86 5172 86 0 43 43
+		[h]
+			 0 405 86 2 0 0 0
+			 1 420 86 2 0 0 0
+		[e]
+		[w]
+			 0 540 86 2 0
+			 1 495 86 2 0
+			 2 4035 86 2 0
+		[e]
+		[data]
+			 0 0 0 0 0 0 0 0 0 0 1 2
+			 0 1 0 0 0 0 0 0 0 0 1 1
+			 0 2 0 0 0 0 0 1 0 0 0 0
+Show/Hide Clean Screen under the View menu.
+
+>
+			 1 0 0 0 0 0 0 0 0 0 1 0
+			 1 2 0 0 0 0 0 1 0 0 0 0
+QuickStart Tutorial under the Help menu.
+
+>
+		[e]
+	[tble]
+[frm]
+	2
+	1573060
+	840
+	3944
+	6599
+	6059
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	3
+	1
+	17920
+	28527 28276
+	[frmlay]
+		11224
+		5759
+		1
+		0
+		0
+		1
+		3944
+		0
+		0
+		2
+		0
+		1
+		1
+		0
+		1
+		984
+		11256
+		0
+	[tbl]
+		 4 2 240 86 2772 86 1 43 43
+		[h]
+			 0 312 86 2 0 2 0
+			 1 312 86 2 0 1 0
+			 2 552 86 2 0 1 0
+			 3 552 86 2 0 1 0
+		[e]
+		[w]
+			 0 2772 86 1 0
+			 1 2772 86 1 0
+		[e]
+		[data]
+			 0 0 0 0 0 0 512 1 0 0 0 0
+Merge Field
+
+>
+			 0 1 0 0 0 0 512 1 0 0 0 0
+MergeField Mergefieldname
+
+>
+			 1 0 384 1 2 0 0 1 0 0 0 0
+Inserts the merge field name into the document
+
+>
+			 1 1 128 0 1 0 0 0 0 0 0 0
+			 2 0 384 1 2 0 0 1 0 0 0 0
+The merge field name displays within angle brackets, <<<;>. The name should be a valid field name in the merge data file.
+
+>
+			 2 1 128 0 1 0 0 0 0 0 0 0
+			 3 0 384 1 2 0 4096 1 0 0 0 0
+<<MergeField ADDRESS<;> displays the merge field name ADDRESS as <<ADDRESS<;> in the merge document.
+
+>
+			 3 1 128 0 1 0 0 0 0 0 0 0
+		[e]
+	[tble]
+[lay]
+	Standard
+	513
+	[rght]
+		15840
+		12240
+		1
+		840
+		960
+		3
+		1440
+		840
+		2
+		1
+		0
+		1
+		1
+		2
+		1
+		840
+		11400
+		1
+		1
+		3120
+	[hrght]
+	[lyfrm]
+		1
+		11200
+		0
+		0
+		12240
+		1440
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		1
+	[frmlay]
+		1440
+		12240
+		1
+		840
+		180
+		3
+		540
+		840
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		840
+		11400
+		1
+		2
+		4674
+	[txt]
+>
+	[frght]
+	[lyfrm]
+		1
+		13248
+		0
+		14880
+		12240
+		15840
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		2
+	[frmlay]
+		15840
+		12240
+		1
+		840
+		240
+		3
+		15060
+		840
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		840
+		11400
+		1
+		3
+		9900
+	[txt]
+>
+[elay]
+[l1]
+	0
+[pg]
+	5
+	26 112 51 32 0 16 0 240 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	59 0 14 0 0 1 0 240 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	96 119 25 0 0 0 0 240 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	124 0 5 512 0 0 0 240 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	150 0 0 1025 0 0 0 240 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+[edoc]
+@a-head@<+B><:s><:#280,10560>Additional Information about Ami Pro Release 3.0
+
+<+@><:s><:#480,10560>This read me file provides information about enhancements to the software and corrections to the printed documentation.
+
+@a-head@<+@><:s><:#280,10560>Fonts - Understanding the AMIFONT.INI file
+
+<+@><:s><:#480,10560>The AMIFONT.INI file is located in the WINDOWS directory and contains lists of fonts that Ami Pro can use to display text on the screen. The file is divided into sections, with each section representing a group of screen fonts.
+
+<+@><:#960,10560>The AMIFONT.INI file automatically lists six sections. Five sections correspond to the font families provided with Windows: Roman, Swiss, Modern, Script, and Decorative. The sixth section represents a group for fonts not listed in any other group. In most c
+ases, these six groups will provide Ami Pro with correct screen fonts for any printer fonts you use in a document.
+
+<+@><:s><:#480,10560>Ami Pro uses the information in the AMIFONT.INI file only when you select a font that is available as a printer font but is not available as a screen font. This can occur when:
+
+@bulleted list@<+@><:s><:#240,10560><:f,2Symbol,></w><:f>	There is no screen font with the exact same typeface name as the printer font.
+
+@bulleted list@<+@><:s><:#240,10560><:f,2Symbol,></w><:f>	A matching screen font cannot be scaled to the point size you specified.
+
+<+@><:s><:#240,10560>If either situation exists, Ami Pro checks the AMIFONT.INI file to see if the printer font is listed in any group.
+
+@bulleted list@<+@><:s><:#480,10560><:f,2Symbol,></w><:f>	If the printer font is listed in a group, Ami Pro chooses a screen font that is within the same group and currently available.
+
+@bulleted list@<+@><:s><:#480,10560><:f,2Symbol,></w><:f>	If the printer font is not listed in any group, Ami Pro chooses a screen font that is within the matching Windows font family group.
+
+<+@><:s><:#720,10560>For example, your printer supports a Palatino font, but you do not have a matching Palatino screen font. Ami Pro chooses one of the fonts listed in the Roman group, such as Tms Rmn, as the screen font for Palatino. Ami Pro cannot choose Caslon Open Face for
+ Palatino because that font is not listed in the Roman group.
+
+<+@><:s><:#960,10560>If you are using unusual printer fonts, you may need to add a group to the AMIFONT.INI file so ami Pro will choose a compatible screen font. For example, your printer supports a downloadable Bodoni font, but you do not have a matching Bodoni screen font. Yo
+u want to make sure Ami Pro chooses Goudy as the screen for Bodoni. In the AMIFONT.INI file, type the following lines:
+
+@1st lev para@<+@><:#240,10560><[>Group#] - where # equals the next consecutive number after the last existing group number.
+
+@1st lev para@<+@><:#240,10560>Font1=Bodoni
+
+@1st lev para@<+@><:#240,10560>Font2=Goudy
+
+<+@><:s><:#240,10560>Ami Pro chooses the Goudy screen font when you select Bodoni as the desired font for your text.
+
+<+@><:s><:#240,10560>Follow these guidelines if you need to modify the AMIFONT.INI file:
+
+@bulleted list@<+@><:s><:#720,10560><:f,2Symbol,></w><:f>	If you want to force Ami Pro to choose one of several screen fonts when you use a particular printer font, create a new group and list both the printer font and the desired screen fonts in that group. The order of the fonts does not ma
+tter.
+
+@bulleted list@<+@><:s><:#480,10560><:f,2Symbol,></w><:f>	If you want to force Ami Pro to choose only one screen font when you use a particular printer font, create a group that contains only one printer font and one screen font.
+
+@bulleted list@<+@><:s><:#480,10560><:f,2Symbol,></w><:f>	Type the font names exactly as they appear in the Ami Pro Font list box, including spaces, but excluding capitalization.
+
+@bulleted list@<+@><:s><:#240,10560><:f,2Symbol,></w><:f>	Do not specify the same font name in more than one group.
+
+@bulleted list@<+@><:s><:#240,10560><:f,2Symbol,></w><:f>	Do not skip any numbers between groups or between fonts within a group.
+
+@bulleted list@<+@><:s><:#240,10560><:f,2Symbol,></w><:f>	Do not add unusual font names to the Windows font family groups.
+
+@a-head@<+@><:s><:#280,10560>Fonts - Adobe Type Manager
+
+<+@><:#480,10560>If you installed Adobe Type Manager, the ATM Installer program transfers a file named ATM.INI to your WINDOWS directory. Settings in ATM.INI control how ATM works.
+
+<+@><:#720,10560>After you install ATM, text in other Windows applications may look slightly different on screen because ATM substitutes its scaleable fonts for certain Windows bitmap fonts. The point size at which ATM makes this substitution is controlled by the SynonymPSB
+egin= statement in ATM.INI.
+
+<+@><:#960,10560>SynonymPSBegin= is initially set to 9. This means ATM substitutes its fonts for Windows fonts that are larger than 9 points. You change this statement to SynonymPSBegin=13 so that ATM substitutes its fonts for Windows fonts that are larger than 13 points. O
+ther Windows applications that use 10 and 12 point fonts will continue to look the same as they did before you installed ATM.
+
+@b-head@<+@><:s><:#280,10560>To remove ATM from your hard disk
+
+<+@><:s><:#240,10560>If you experience difficulties with ATM soft fonts, you can remove ATM from the hard disk and reinstall it.
+
+@Numbered List@<+@><:s><:#240,10560> 1.	If you installed additional fonts, copy those font files to a temporary directory.
+
+@Numbered List@<+@><:s><:#480,10560> 2.	Remove all ATM soft font lines from your WIN.INI file. Soft fonts are listed with the installed printers. In the example below, an * (asterisk) indicates each line you would need to remove.
+
+@1st lev para@<+@><:#240,10560><[>PostScript,LPT2]
+
+@1st lev para@<+@><:#240,10560>device=14
+
+@1st lev para@<+@><:#240,10560>color=2
+
+@1st lev para@<+@><:#240,10560>feed1=1
+
+@1st lev para@<+@><:#240,10560>*softfonts=11
+
+@1st lev para@<+@><:#240,10560>*softfont1=c:\psfonts\pfm\_a_______.pfm,c:\psfonts\_a_______.pfb
+
+@1st lev para@<+@><:#240,10560>*softfont2=c:\psfonts\pfm\bdbc____.pfm,c:\psfonts\bdbc____.pfb
+
+@Numbered List@<+@><:s><:#480,10560> 3.	Follow the instructions in "Removing the program from your system" in Chapter 2 of the 
+<+">Adobe Type Manager User Guide<-">.
+
+@Numbered List@<+@><:#480,10560> 4.	To reinstall ATM, insert the ATM disk in drive A and close the door. Open the Windows Program Manager. Choose File/Run. Type A:\INSTALL and choose OK.
+
+@a-head@<+@><:s><:#280,10560>Clean Screen
+
+<+@><:s><:#480,10560>You can implement the Ami Pro Clean Screen feature every time you start Ami Pro. Choose Tools/User Setup, choose Load, select Clean Screen, and then choose OK.
+
+@a-head@<+@><:#280,10560>Envelopes
+
+<:#240,10560>You can modify the appearance of the envelope address and use Print Envelope to merge envelopes.
+
+@b-head@<:#280,10560>To modify envelope paragraph styles
+
+<:#480,10560>Ami Pro uses the ~AMIENV.STY style sheet when printing envelopes. You can modify the recipient and return address paragraph styles if you want to modify how the printed address appears.
+
+@Numbered List@<:#240,10560> 1.	Choose File/New.
+
+@Numbered List@<:#480,10560> 2.	In the Style sheet for new document list box, select Envelope -- Used for automatic envelope printing (~amienv.sty).
+
+@Numbered List@<:#240,10560> 3.	Choose OK.
+
+@1st lev para@<:#240,10560>Ami Pro displays an untitled document.
+
+@Numbered List@<:#240,10560> 4.	Choose Style/Modify Style.
+
+@keyboard@<:#240,10560><+!>Keyboard<-!>: Press CTRL+A.
+
+@Numbered List@<:#240,10560> 5.	Select the paragraph style you want to modify.
+
+@Numbered List@<:#240,10560> 6.	Select the desired Modify options.
+
+@Numbered List@<:#240,10560> 7.	Specify the desired settings.
+
+@Numbered List@<:#240,10560> 8.	Choose Save.
+
+@Numbered List@<:#240,10560> 9.	Repeat steps 5 - 8 for each paragraph style.
+
+@Numbered List@<:#240,10560>10.	Choose OK.
+
+@Numbered List@<:#240,10560>11.	Choose Style/Save as a Style Sheet.
+
+@Numbered List@<:#240,10560>12.	Choose OK without changing the File name.
+
+@1st lev para@<:#240,10560>Ami Pro prompts you about overwriting the style sheet. Choose Yes.
+
+@1st lev para@<:#240,10560>Ami Pro saves the changes to the style sheet.
+
+@Numbered List@<:#240,10560>12.	Choose File/Close.
+
+@1st lev para@<:#240,10560>Ami Pro prompts you about saving the Untitled document. Choose No.
+
+@b-head@<+@><:#280,10560>To merge envelopes
+
+<+@><:#240,10560>You can merge envelopes if you create a merge document and a merge data file.
+
+@Numbered List@<:#240,10560> 1.	Make the merge document that contains the merge address fields the active window.
+
+@Numbered List@<:#240,10560> 2.	Select the merge field names for the recipient's address.
+
+@Numbered List@<:#240,10560> 3.	Choose File/Print Envelope.
+
+@1st lev para@<:#240,10560>Ami Pro displays a message. Choose Yes to use the merge data file assigned to the document.
+
+@Numbered List@<:#240,10560> 4.	Select inches, centimeters, picas, or points as the unit of measurement.
+
+@Numbered List@<:#240,10560> 5.	Select an Envelope size by selecting the desired icon.
+
+@1st lev para@<:#480,10560>You can also select an envelope size in the More envelope sizes list box, or type the desired length and width in the text boxes.
+
+@1st lev para@<:#480,10560>You can specify any size between three and eleven inches. However, make sure the printer can accommodate the size you specify.
+
+@Numbered List@<:#240,10560> 6.	If you want to print a return address on the envelopes, select Print return address.
+
+@1st lev para@<:#240,10560>Ami Pro displays Return address options.
+
+@Numbered List@<:#480,10560> 7.	Select the desired address in the Return address names list box, or type an address in the Return address text box.
+
+@1st lev para@<:#240,10560>You can type up to five lines of text as a Return address.
+
+@Numbered List@<:#240,10560> 8.	Choose OK.
+
+@1st lev para@<:#240,10560>Ami Pro displays the Merge dialog box.
+
+@Numbered List@<:#240,10560> 9.	Select Merge & print.
+
+@Numbered List@<:#240,10560>10.	Choose OK.
+
+@1st lev para@<:#240,10560>Ami Pro prints the envelopes using the addresses contained in the merge data file.
+
+@a-head@<+@><:#280,10560>Import and Export
+
+<:#480,10560>When you export a<+!> DCA/RFT<-!> file, Ami Pro exports table data as text. Column data is separated by tabs, and rows are separated by returns.
+
+<:#240,10560>When you import and export a <+!>DCA/RFT<-!> file, Ami Pro imports and exports footnote options.
+
+<+@><:s><:#240,10560>When you import a <+!>MultiMate<-!> file, Ami Pro imports bounded columns as tables.
+
+<+@><:#480,10560>When you export an <+!>Office Writer<-!> file, Ami Pro exports table data as text. Column data is separated by tabs, and rows are separated by returns.
+
+<+@><:s><:#240,10560>When you import an <+!>OfficeWriter<-!> file, Ami Pro imports initial caps.
+
+<+@><:#240,10560>When you import a <+!>ProWrite<-!> file, Ami Pro converts leading spaces to text indentions.
+
+<:#240,10560>When you import and export a <+!>Rich Text Format<-!> file, Ami Pro imports and exports bullets in text.
+
+<:#240,10560>When you import a <+!>Symphony <-!>file, Ami Pro imports indentions but does not import right alignment.
+
+<+@><:s><:#240,10560>When you export a <+!>Word for Windows<-!> file, Ami Pro exports graphics.
+
+@a-head@<+@><:#280,10560>OLE and Ami Pro
+
+<+@><:#480,10560>If you want to use OLE with any application, the correct path to the application must be specified in a PATH statement in the AUTOEXEC.BAT file.
+
+@a-head@<+@><:s><:#280,10560>Opaque Frames
+
+<:#720,10560>If you are using any Hewlett-Packard LaserJet or compatible printer and lines in a document print even when you position opaque frames with square corners over them, you can modify a line in the <[>AmiPro] section of the WINDOWS\AMIPRO.INI file to correct t
+he problem.
+
+<:#240,10560>Change the HPLJClipping= line so that it indicates HPLJClipping=1 instead of 0.
+
+<:s><:#240,10560>Ami Pro prints the lines correctly, but all printing is now slower.
+
+@a-head@<+@><:s><:#280,10560>Pre-Defined Power Fields
+
+<+@><:#240,10560>MergeField is a pre-defined power field that appears in alphabetical order in the Insert Power Fields dialog box.
+
+<+@><:s><:t1>
+
+@a-head@<+@><:s><:#280,10560>Print Current Page
+
+<+@><:#240,10560>You can print the current page of the current document. Choose File/Print, select Current Page, and choose OK.
+
+@a-head@<+@><:#280,10560>Style Sheets
+
+<+@><:#720,10560>The Install program installs style sheets into the AMIPRO\STYLES directory. If you are using Windows 3.0 and the Adobe Type Manager, the style sheets use ATM fonts. If you are using Windows 3.1 and TrueType fonts, the style sheets use TrueType fonts.
+
+<+@><:#480,10560>If you upgrade from Windows 3.0 to Windows 3.1 and you want to use the TrueType style sheets, you can reinstall Ami Pro, choose Option Install, and select only the Style Sheets/Sample Documents option.
+
+@a-head@<+@><:s><:#280,10560>Corrections to the documentation
+
+<:s><:#240,10560><+!>Quick Reference Card
+
+<:s><:#240,10560>The following SmartIcon descriptions have changed:
+
+<:s><:#240,10560>Open a file is now Open an existing file.
+
+<:s><:#240,10560>Save a file is now Save the current file.
+
+<:s><:#240,10560>Undo previous action is now Undo last command or action.
+
+<:#240,10560>Cut selected text/items to Clipboard is now Cut to the Clipboard.
+
+<:#240,10560>Copy selected text/items to Clipboard is now Copy to the Clipboard.
+
+<:s><:#240,10560>Tile all open documents is now Tile Windows.
+
+<:s><:#240,10560>Cascade all open documents is now Cascade Windows.
+
+<:s><:#240,10560>Drawing is now Create a Drawing.
+
+<:s><:#240,10560>Sort is now Sort in ascending order.
+
+<:s><:#240,10560>Print document is now Print.
+
+The following SmartIcons are not shown:
+
+<:s><:t0>
+
+<:s><:p<* >>
+
+<:#240,10560><+!>Ami Pro User'<-!><+!>s Guide<-!>
+
+<:s><:#480,10560><+!>On page 19<-!>,<+!> <-!>under "Specifying the order of SmartIcons," the Help under step 3 should be deleted. You can modify the default set of SmartIcons.
+
+<:#480,10560><+!>On page 19<-!>,<+!> <-!>under "Modifying a set of SmartIcons," the Help should be deleted. You can modify the default set of SmartIcons.
+
+<:#480,10560><+!>On page 19<-!>,<+!> <-!>under "To add, move, or remove and icon" after step 1, the documentation fails to mention that you must select the set of SmartIcons you want to modify.
+
+<:#240,10560><+!>On page 22<-!>, under "Deleting a set of SmartIcons," you can delete the default set of SmartIcons.
+
+<:#960,10560><+!>On page 41<-!>, under "Run macro," the documentation fails to mention the Collect dialog box. The first time you create a document and select Run macro, Ami Pro prompts you for basic information that is required in many different types of documents. Ami
+ Pro saves the information you specify and automatically displays it in the Default Information dialog box each time you create a document and select Run macro. You can edit the information if it is incorrect.
+
+<:#720,10560><+!>On page 68<-!>, under "Using Fast Format for selected text," the Tip immediately before step 1 should be deleted. You cannot remove text formatting by selecting normal text and using Fast Format. If you did not apply a font using either SmartIcons, the 
+status bar, or the Text menu, Ami Pro extracts the font information contained in the paragraph style.
+
+<:s><:#480,10560><+!>On page 69<-!>, in the note under step 3, you cannot extract normal formatting and apply it to bold and italicized text to make the text appear normal. You cannot apply normal text using Fast Format.
+
+<:#240,10560><+!>On page 200<-!>, under "Printing an envelope," Ami Pro does not change the printer options to use an envelope bin.
+
+<:#720,10560><+!>On page 201<-!>, under step 8, the documentation fails to mention that Ami Pro prints the recipient's address as it displays in the document, including any text formatting and text enhancements you applied using SmartIcons, the status bar, or the Text m
+enu.
+
+<:#480,10560><+!>On page 262<-!>, under "Editing a table," the documentation fails to indicate that you can use Drag & Drop to move or copy the contents of a single cell only if the cell contains a formula or picture.
+
+<:#240,10560><+!>On page 357<-!>, the documentation fails to indicate that you can import and export Office Writer and ProWrite files.
+
+<:#480,10560><+!>On pages 358<-!>,<+!> 362<-!>,<+!> 363<-!>,<+!> 366<-!>,<+!> and 367<-!>, the Helps should indicate "Choose Help/Contents, choose How Do I?, and then choose Import and Export Files."
+
+<:#480,10560><+!>On pages 369<-!>,<+!> 371<-!>,<+!> and 373<-!>, the * in the import and export key should indicate "Choose Help/Contents, choose How Do I? and then choose Import and Export Files."
+
+<:#480,10560><+!>On page 369<-!>,<+!> 371<-!>,<+!> 373<-!>, the M in the import and export key should indicate, "Leading spaces are converted to text indentions."
+
+<:#240,10560><+!>On page 372<-!>, the Word for Windows export filter does not support Apply Styles.
+
+<:#480,10560><+!>On page 373<-!>, only the WordPerfect 5.1 export filter creates a table. When you export a WordPerfect 5.0 file, Ami Pro exports table data as text. Column data is separated by tabs, and rows are separated by returns.
+
+<:#240,10560><+!>On page 373<-!>, the WordPerfect 5.0 export filter does not support Keep Style names.
+
+<:#240,10560><+!>On page 401<-!>,<+!> <-!>the sidenote by step 4 should indicate "Do not assign the same TOC level to multiple paragraph styles. 
+
+<+!>On page 471<-!>, under the Create Description File screen capture, the documentation fails to indicate that if you are using a fixed length ASCII file you must type the field name, a comma, and the number of characters in the field before you press ENTE
+R or choose Add. You can obtain the field lengths from the application used to create the ASCII data file.
+
+<+!>On page 490<-!>,<+!> <-!>the Help under step 3 refers to the position of the superscript.
+
+<:#240,10560><+!>On page 491<-!>, the Help under step 3 refers to the position of the subscript.
+
+<:s><:#480,10560><+!>On page 529<-!>, under Understanding power fields, the following sentence was omitted after the first sentence. "Each power field contains instructions for completing a desired action."
+
+@a-head@<:s><:#280,10560>Additional Information
+
+<:#480,10560>Zenographics SuperPrint version 2.2 and prior versions may not support AmiPrint. Choose Tools/User Setup, choose Options, deselect Print in background, and then choose OK to disable AmiPrint.
+
+<+@><:#240,10560>
+
+>
+BM      v   (                                         €  €   €€ €   € € €€  €€€ ÀÀÀ   ÿ  ÿ   ÿÿ ÿ   ÿ ÿ ÿÿ  ÿÿÿ              
+wwwwwwwwwwwp@fRwwwwwwwwwwwpˆwJˆˆˆˆˆˆ ø p+!ˆˆˆˆ‡ˆ  p
+bˆˆˆˆ x ÿ p†Šğˆˆˆ€  pp¼ˆˆˆ    ÿppÎHˆˆ€    w÷ppÑˆˆ€   ù™ğp
+`ˆˆpˆ€ w÷ppˆhˆ€ ˆˆˆ  p#ˆ€ ˆˆˆˆ€ ˆ‡pAD`ˆ€pˆˆˆˆpPx‡p]˜ˆˆˆˆˆˆ‡p("!ˆ‡Hˆˆˆˆ ‡pËˆ„xˆˆˆ    ‡pE€ˆ„ˆˆˆˆˆ ‡p"âˆtˆˆˆˆˆO H‡pİ”ˆGˆˆˆˆˆG H‡p(ˆHˆˆˆˆˆ@ H‡pf¤ˆHˆˆˆˆˆ  ‡p†Œ”ˆˆˆˆˆˆˆ  ‡p ãˆˆˆˆˆˆˆˆˆˆ‡pÿÿÿÿÿÿÿÿÿÿÿp>‡             ‘xBM      v   (                                         €  €   €€ €   € € €€  €€€ ÀÀÀ   ÿ  ÿ   ÿÿ ÿ   ÿ ÿ ÿÿ  ÿÿÿ                 wwwwwwwwwwwp   wwwwwwwwwwwp   ˆˆˆˆˆˆˆˆˆ€‡p  ˆwwwwwwww p   ˆxwwwwwwp ‡p  @ˆwxˆ‡wˆw ‡p  ˆwwwwwwp ‡‡p   ˆ¿ÿÿÿÿ ‡‡p  @ˆÿÿÿÿğ x‡‡p  ˆÿwww x‡‡p   ˆ{ÿÿÿğ ÿx‡‡p  ˆ¿ww ûx‡‡p  	ˆÿÿğ ÿ¿x‡‡p  ˆÿw ÿÿww‡p  ˆ{ÿğ ÿÿûx‡‡p  	ˆ¿ ÿÿÿww‡p  ˆwp wwwwx‡‡p  ˆw xw‡ˆw÷‡p  	ˆp tttwGGG‡p   ˆ Gøøôttw‡p   € wwwwwwww‡p    ˆˆˆˆˆˆˆˆ‡p   €ˆˆˆˆˆˆˆˆˆ‡p   ÿÿÿÿÿÿÿÿÿÿÿp                   BM      v   (                                         €  €   €€ €   € € €€  €€€ ÀÀÀ   ÿ  ÿ   ÿÿ ÿ   ÿ ÿ ÿÿ  ÿÿÿ               Dwwwwwwwwwwwp  wwwwwwwwwwwp Uˆˆˆˆˆˆˆˆˆˆ‡p ]ˆ         ‡p   ˆwpwwppp‡p   ˆ ˆ€wˆp ‡p   ˆwwwwwwx€‡p  ˆ¿ÿÿÿÿûx€‡pÿÿÿˆÿÿÿÿÿ¿x€‡pÌÌÏˆÿwwwÿx€‡p  ˆÿÿÿÿÿÿx€‡p  ˆ¿wwwwûx€‡p"".ˆÿÿÿÿÿ¿x€‡pˆˆˆˆÿwwwÿÿp ‡p   ˆÿÿÿÿÿûx€‡p   ˆ¿ÿÿÿÿÿwp‡p   ˆwwwwwwx€‡p ˆø°Ø ‰ˆğ‡pÿÿ ˆddddfFF@‡pÿÿ ˆFFøøôdd`‡p™™ˆ         ‡pÿÿÿˆˆˆˆˆˆˆˆˆˆ‡pÿÿÿˆˆˆˆˆˆˆˆˆˆ‡pÿÿÿÿÿÿÿÿÿÿÿÿÿÿpÿÿÿ             ˆˆŒ
+[Embedded]
+7 .bmp 26804 534 0 0 
+6 .bmp 27338 534 0 0 
+5 .bmp 27872 534 0 0 
+00028408

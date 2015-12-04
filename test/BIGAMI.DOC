@@ -1,0 +1,2936 @@
+[ver]
+	4
+[sty]
+	
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[revisions]
+	0
+[prn]
+	QMS-PS 820
+[port]
+	LPT1:
+[lang]
+	1
+[desc]
+	Main Mercury Demo file.  Offers descriptions to many of the features in Ami Pro.
+	
+	
+	
+	
+	708919668
+	11
+	707422776
+	307
+	8
+	2168
+	12452
+	50
+	65
+	
+	
+	
+	
+	
+	
+	0
+[fopts]
+	0
+	1
+	0
+	0
+[lnopts]
+	2
+	Body Text
+	1
+[docopts]
+	5
+	2
+[GramStyle]
+	Business Writing
+[ParaNum]
+	1
+[tag]
+	Body Text
+	2
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		257
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		259
+		4
+		72
+		72
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Body Text
+	0
+	0
+[tag]
+	Body Single
+	3
+	[fnt]
+		TimesNewRomanPS
+		220
+		0
+		49152
+	[algn]
+		257
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		259
+		4
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Body Single
+	0
+	0
+[tag]
+	Bullet 1
+	4
+	[fnt]
+		Times New Roman
+		220
+		0
+		49152
+	[algn]
+		1
+		1
+		288
+		216
+		0
+	[spc]
+		33
+		259
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		8
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		<*2>
+		28948
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Bullet 1
+	0
+	0
+[tag]
+	Bullet 2
+	5
+	[fnt]
+		Times New Roman
+		220
+		0
+		49152
+	[algn]
+		1
+		1
+		288
+		360
+		0
+	[spc]
+		33
+		259
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		8
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		<*9>
+		28948
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Bullet 2
+	0
+	0
+[tag]
+	Numbered List
+	6
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		1
+		0
+		360
+		360
+	[spc]
+		33
+		259
+		1
+		72
+		0
+		1
+		100
+	[brk]
+		8
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		<*:>.
+		28948
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Numbered List
+	0
+	0
+[tag]
+	Heading
+	7
+	[fnt]
+		Times New Roman
+		360
+		16711680
+		49153
+	[algn]
+		257
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		422
+		4
+		72
+		0
+		1
+		100
+	[brk]
+		80
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		1
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Subhead
+	0
+	0
+[tag]
+	Subhead
+	8
+	[fnt]
+		Arial
+		240
+		0
+		16386
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		288
+		1
+		72
+		0
+		1
+		100
+	[brk]
+		80
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		2
+		
+		28948
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Body Text
+	0
+	0
+[tag]
+	Table Text
+	9
+	[fnt]
+		Arial
+		240
+		0
+		16384
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		17
+		201
+		1
+		72
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Table Text
+	0
+	0
+[tag]
+	Indent
+	11
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		513
+		1
+		0
+		0
+		1296
+	[spc]
+		33
+		288
+		1
+		72
+		0
+		1
+		100
+	[brk]
+		40
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		
+		28948
+		1
+		1
+		1
+		16
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Indent
+	1
+	1
+	1800
+	0
+[tag]
+	Title
+	12
+	[fnt]
+		Arial
+		720
+		8388736
+		16387
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		24
+		260
+		4
+		72
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Title
+	0
+	0
+[tag]
+	Table Heading
+	0
+	[fnt]
+		Times New Roman
+		280
+		16711680
+		49153
+	[algn]
+		257
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		422
+		4
+		72
+		0
+		1
+		100
+	[brk]
+		16
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		1
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		280
+		1
+		2
+		.
+		,
+		$
+	Table Heading
+	0
+	0
+[tag]
+	Sports
+	0
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		1
+		0
+		360
+		360
+	[spc]
+		33
+		288
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		0
+	[line]
+		8
+		0
+		1
+		0
+		1
+		2
+		2
+		20
+		20
+		1
+	[spec]
+		0
+		0
+		<*:>.
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+	Numbered List
+	0
+	0
+[frm]
+	1
+	537002048
+	880
+	117
+	4540
+	1849
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	71
+	[frmname]
+		Frame71
+	[frmlay]
+		1849
+		3660
+		0
+		144
+		144
+		1
+		261
+		144
+		0
+		2
+		0
+		152
+		82
+		25840
+		1
+		1024
+		4396
+		0
+	[isd]
+		.X71
+		.sdw
+		.X71
+		18
+		1
+		0
+		0
+		2635
+		64103
+		100
+		0
+		384
+		258
+		0
+		0
+		1
+		16
+		8807
+		24
+		8807
+		32
+		8807
+		40
+		8807
+		48
+		8807
+		56
+		8807
+		8
+		8807
+		11916
+		0
+		1104
+		264
+		4482
+		1697
+		0
+		0
+		0
+		0
+		0
+		0
+		65535
+		255
+		0
+		0
+		0
+		0
+		20
+		0
+		0
+		19968
+		30565
+		25923
+		29806
+		29301
+		21369
+		26723
+		25196
+		107
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		4608
+		320
+		0
+		0
+		4
+		0
+		0
+		0
+		1
+		100
+		100
+		100
+		720
+		1
+		0
+		0
+		15574
+		9326
+		9246
+		0
+		9391
+		1882
+		9391
+		115
+		9271
+		192
+		9271
+		418
+		9287
+		487
+		9287
+		288
+		9271
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		8
+		8799
+		24
+		8799
+		32
+		8799
+		40
+		8799
+		16
+		8799
+		48
+		8799
+		0
+		0
+		.sdw
+		0
+		0
+		0
+[frm]
+	1
+	131584
+	4560
+	385
+	9349
+	1084
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	67
+	[frmlay]
+		1084
+		4789
+		1
+		0
+		0
+		1
+		529
+		0
+		0
+		2
+		0
+		232
+		116
+		36864
+		1
+		4560
+		9349
+		0
+	[txt]
+@Title@<+B>Ami Pro 3.0<:f>
+
+>
+[frm]
+	1
+	25297472
+	4010
+	1860
+	6095
+	2025
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16760895
+	62
+	[frmname]
+		Frame62
+	[frmlay]
+		2025
+		2085
+		1
+		0
+		0
+		1
+		1860
+		0
+		0
+		2
+		0
+		152
+		82
+		25840
+		1
+		4010
+		6095
+		0
+	[txt]
+>
+[frm]
+	1
+	8520256
+	951
+	2178
+	9403
+	2552
+	0
+	1
+	1
+	1 0 0 0 0 0 16711935
+	0
+	255
+	69
+	[frmname]
+		Frame63
+	[frmlay]
+		2552
+		8452
+		1
+		0
+		374
+		1
+		2178
+		0
+		0
+		2
+		0
+		152
+		82
+		25840
+		1
+		951
+		9411
+		0
+	[txt]
+>
+[frm]
+	1
+	42074688
+	2450
+	2010
+	7640
+	2190
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	8388736
+	64
+	[frmlay]
+		2190
+		5190
+		1
+		0
+		0
+		1
+		2010
+		0
+		0
+		2
+		0
+		152
+		82
+		25840
+		1
+		2450
+		7640
+		0
+	[txt]
+>
+[frm]
+	1
+	512
+	935
+	1935
+	2315
+	2220
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	65
+	[frmlay]
+		2220
+		1380
+		1
+		0
+		0
+		1
+		1935
+		0
+		0
+		2
+		0
+		0
+		0
+		256
+		1
+		935
+		2315
+		0
+	[txt]
+Vol. XXVII<:f>
+
+>
+[frm]
+	1
+	512
+	7550
+	1935
+	9335
+	2220
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	66
+	[frmlay]
+		2220
+		1785
+		1
+		0
+		0
+		1
+		1935
+		0
+		0
+		2
+		0
+		232
+		116
+		36864
+		1
+		7550
+		9335
+		0
+	[txt]
+<+A><:kb>
+
+>
+[frm]
+	1
+	131584
+	5240
+	975
+	8600
+	1830
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	68
+	[frmlay]
+		1830
+		3360
+		1
+		0
+		0
+		1
+		975
+		0
+		0
+		2
+		0
+		152
+		82
+		25840
+		1
+		5240
+		8600
+		0
+	[txt]
+@Subhead@<+B>The Best Word Processor for Windows<:f>
+
+>
+[frm]
+	4
+	536936576
+	5160
+	1277
+	9396
+	4237
+	1
+	1
+	1
+	1 0 0 57 57 0 12632256
+	0
+	16777215
+	52
+	[frmname]
+		Frame46
+	[frmlay]
+		4237
+		4236
+		1
+		144
+		144
+		1
+		1421
+		144
+		0
+		2
+		0
+		1
+		1
+		1
+		1
+		5304
+		9538
+		0
+	[isd]
+		.X52
+		.sdw
+		.X52
+		1
+		1
+		0
+		0
+		3306
+		63173
+		100
+		0
+		384
+		258
+		0
+		0
+		1
+		16
+		12367
+		24
+		12367
+		32
+		12367
+		40
+		12367
+		48
+		12367
+		56
+		12367
+		8
+		12367
+		11812
+		0
+		5389
+		461
+		9327
+		3131
+		0
+		0
+		0
+		0
+		0
+		0
+		65535
+		255
+		0
+		0
+		0
+		0
+		20
+		0
+		0
+		16640
+		26994
+		27745
+		29696
+		29301
+		21369
+		26723
+		25196
+		107
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		8704
+		320
+		0
+		255
+		0
+		60252
+		0
+		0
+		1
+		360
+		180
+		360
+		720
+		1
+		0
+		0
+		2350
+		11246
+		10550
+		0
+		10023
+		1882
+		10023
+		115
+		11231
+		192
+		11231
+		418
+		11287
+		487
+		11287
+		288
+		11231
+		1
+		255
+		0
+		17151
+		30
+		33279
+		0
+		65535
+		0
+		65280
+		0
+		65280
+		178
+		65280
+		255
+		32768
+		255
+		0
+		255
+		16225
+		255
+		129
+		255
+		255
+		255
+		255
+		128
+		65535
+		255
+		0
+		0
+		1
+		49407
+		206
+		49407
+		182
+		49919
+		129
+		65535
+		194
+		65474
+		145
+		65473
+		213
+		65473
+		255
+		61378
+		255
+		61920
+		255
+		57568
+		255
+		49121
+		255
+		49663
+		253
+		49407
+		228
+		65535
+		255
+		36751
+		143
+		33535
+		160
+		33023
+		128
+		49151
+		24
+		65535
+		128
+		65408
+		128
+		65410
+		202
+		65408
+		255
+		58017
+		255
+		57792
+		255
+		49087
+		255
+		40930
+		255
+		32767
+		255
+		33535
+		194
+		63479
+		247
+		32896
+		128
+		16639
+		112
+		33279
+		65
+		33279
+		0
+		65535
+		0
+		65345
+		50
+		65346
+		199
+		65280
+		255
+		49215
+		255
+		40833
+		226
+		32896
+		255
+		33472
+		255
+		17151
+		249
+		16639
+		160
+		61423
+		239
+		29298
+		114
+		255
+		0
+		17151
+		30
+		25314
+		0
+		65535
+		74
+		65280
+		0
+		65280
+		178
+		57344
+		224
+		32768
+		255
+		33089
+		255
+		16705
+		255
+		17026
+		255
+		255
+		255
+		255
+		128
+		57825
+		225
+		24415
+		95
+		194
+		0
+		8417
+		0
+		16289
+		0
+		41377
+		0
+		49664
+		0
+		49408
+		150
+		49408
+		194
+		25088
+		225
+		0
+		255
+		65
+		255
+		129
+		255
+		161
+		159
+		192
+		127
+		53970
+		210
+		20303
+		79
+		129
+		0
+		160
+		0
+		17026
+		0
+		33153
+		0
+		32768
+		0
+		40704
+		130
+		33280
+		128
+		16384
+		128
+		0
+		128
+		34
+		161
+		65
+		194
+		128
+		128
+		130
+		64
+		49344
+		192
+		16448
+		64
+		45520
+		161
+		41440
+		117
+		45266
+		106
+		49856
+		124
+		49538
+		104
+		49281
+		151
+		49791
+		188
+		45681
+		207
+		40863
+		224
+		41408
+		224
+		40930
+		222
+		37359
+		235
+		40930
+		200
+		45746
+		178
+		12079
+		47
+		24703
+		79
+		25249
+		82
+		25216
+		16
+		33410
+		63
+		25151
+		31
+		24892
+		62
+		24631
+		94
+		16656
+		96
+		24674
+		161
+		16738
+		129
+		12640
+		129
+		8544
+		98
+		8546
+		82
+		41634
+		162
+		0
+		0
+		0
+		7616
+		2836
+		2780
+		154
+		153
+		155
+		151
+		8
+		0
+		8
+		12351
+		24
+		12351
+		32
+		12351
+		40
+		12351
+		16
+		12351
+		48
+		12351
+		0
+		0
+		.sdw
+		0
+		0
+		0
+[frm]
+	4
+	640
+	5184
+	4179
+	9391
+	5465
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	55
+	[frmlay]
+		5465
+		4207
+		1
+		144
+		144
+		1
+		4323
+		144
+		0
+		2
+		0
+		1
+		1
+		1
+		1
+		5328
+		9242
+		0
+	[txt]
+<+B><:f280,,><+">Ami Pro</R><-"><+">s <-"><+">TOOLS have in-place editing for a more intuitive,<**> functional operation.<-"><:f>
+
+>
+[frm]
+	4
+	536870912
+	635
+	4002
+	9531
+	7258
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	74
+	[frmname]
+		Frame74
+	[frmlay]
+		7258
+		8896
+		1
+		0
+		0
+		1
+		4002
+		0
+		0
+		2
+		0
+		130
+		130
+		514
+		1
+		635
+		9531
+		0
+	[isd]
+		.X74
+		.sdw
+		.X74
+		1
+		1
+		0
+		0
+		4320
+		61216
+		100
+		0
+		384
+		258
+		0
+		0
+		1
+		16
+		12367
+		24
+		12367
+		32
+		12367
+		40
+		12367
+		48
+		12367
+		56
+		12367
+		8
+		12367
+		11392
+		0
+		659
+		3494
+		9525
+		7465
+		0
+		0
+		0
+		0
+		0
+		0
+		65535
+		255
+		0
+		0
+		0
+		0
+		20
+		0
+		0
+		19968
+		30565
+		25923
+		29806
+		29301
+		21369
+		26723
+		25196
+		107
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		4608
+		320
+		0
+		0
+		4
+		0
+		0
+		0
+		1
+		100
+		100
+		100
+		720
+		1
+		0
+		0
+		4838
+		11246
+		10550
+		0
+		10023
+		1882
+		10023
+		115
+		11231
+		192
+		11231
+		418
+		11287
+		487
+		11287
+		288
+		11231
+		1
+		255
+		0
+		17151
+		30
+		33279
+		0
+		65535
+		0
+		65280
+		0
+		65280
+		178
+		65280
+		255
+		32768
+		255
+		0
+		255
+		16225
+		255
+		129
+		255
+		255
+		255
+		255
+		128
+		65535
+		255
+		0
+		0
+		1
+		49407
+		206
+		49407
+		182
+		49919
+		129
+		65535
+		194
+		65474
+		145
+		65473
+		213
+		65473
+		255
+		61378
+		255
+		61920
+		255
+		57568
+		255
+		49121
+		255
+		49663
+		253
+		49407
+		228
+		65535
+		255
+		36751
+		143
+		33535
+		160
+		33023
+		128
+		49151
+		24
+		65535
+		128
+		65408
+		128
+		65410
+		202
+		65408
+		255
+		58017
+		255
+		57792
+		255
+		49087
+		255
+		40930
+		255
+		32767
+		255
+		33535
+		194
+		63479
+		247
+		32896
+		128
+		16639
+		112
+		33279
+		65
+		33279
+		0
+		65535
+		0
+		65345
+		50
+		65346
+		199
+		65280
+		255
+		49215
+		255
+		40833
+		226
+		32896
+		255
+		33472
+		255
+		17151
+		249
+		16639
+		160
+		61423
+		239
+		29298
+		114
+		255
+		0
+		17151
+		30
+		25314
+		0
+		65535
+		74
+		65280
+		0
+		65280
+		178
+		57344
+		224
+		32768
+		255
+		33089
+		255
+		16705
+		255
+		17026
+		255
+		255
+		255
+		255
+		128
+		57825
+		225
+		24415
+		95
+		194
+		0
+		8417
+		0
+		16289
+		0
+		41377
+		0
+		49664
+		0
+		49408
+		150
+		49408
+		194
+		25088
+		225
+		0
+		255
+		65
+		255
+		129
+		255
+		161
+		159
+		192
+		127
+		53970
+		210
+		20303
+		79
+		129
+		0
+		160
+		0
+		17026
+		0
+		33153
+		0
+		32768
+		0
+		40704
+		130
+		33280
+		128
+		16384
+		128
+		0
+		128
+		34
+		161
+		65
+		194
+		128
+		128
+		130
+		64
+		49344
+		192
+		16448
+		64
+		45520
+		161
+		41440
+		117
+		45266
+		106
+		49856
+		124
+		49538
+		104
+		49281
+		151
+		49791
+		188
+		45681
+		207
+		40863
+		224
+		41408
+		224
+		40930
+		222
+		37359
+		235
+		40930
+		200
+		45746
+		178
+		12079
+		47
+		24703
+		79
+		25249
+		82
+		25216
+		16
+		33410
+		63
+		25151
+		31
+		24892
+		62
+		24631
+		94
+		16656
+		96
+		24674
+		161
+		16738
+		129
+		12640
+		129
+		8544
+		98
+		8546
+		82
+		41634
+		162
+		0
+		0
+		0
+		5468
+		2836
+		2780
+		154
+		153
+		155
+		151
+		10
+		0
+		8
+		12351
+		24
+		12351
+		32
+		12351
+		40
+		12351
+		16
+		12351
+		48
+		12351
+		0
+		0
+		.sdw
+		0
+		0
+		0
+[frm]
+	4
+	1572868
+	3015
+	9476
+	7150
+	11723
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	78
+	0
+	13593
+	2966 18432
+	[frmlay]
+		5320
+		4135
+		1
+		0
+		0
+		1
+		9476
+		0
+		0
+		2
+		0
+		1
+		1
+		1
+		1
+		810
+		9360
+		0
+	[tbl]
+		 5 6 356 86 1612 86 5 43 43
+		[h]
+			 0 332 86 2 0 1 0
+			 1 365 86 2 0 5 0
+			 2 356 86 2 0 6 0
+			 3 365 86 2 0 1 0
+			 4 356 86 2 0 6 0
+		[e]
+		[w]
+			 0 791 86 3 0
+			 1 543 86 3 0
+			 2 527 86 3 0
+			 3 527 86 3 0
+			 4 462 86 3 0
+			 5 726 86 3 0
+		[e]
+		[data]
+			 0 0 920 1 6 11 4369 1 0 12632256 0 0
+@Table Heading@<+B>Mercury Sports (Hero votes)
+
+>
+			 0 1 2712 0 1 11 4369 1 0 12632256 0 0
+@Heading@<+B>
+
+>
+			 0 2 128 0 2 0 0 0 0 0 0 0
+			 0 3 128 0 3 0 0 0 0 0 0 0
+			 0 4 128 0 4 0 0 0 0 0 0 0
+			 0 5 128 0 5 0 0 0 0 0 0 0
+			 1 0 0 0 0 0 4369 0 0 0 0 0
+			 1 1 24 0 0 11 4369 1 0 12632256 0 0
+<+B><+!>N<-!>
+
+>
+			 1 2 24 0 0 11 4369 1 0 12632256 0 0
+<+B><+!>S<-!>
+
+>
+			 1 3 24 0 0 11 4369 1 0 12632256 0 0
+<+B><+!>E<-!>
+
+>
+			 1 4 24 0 0 11 4369 1 0 12632256 0 0
+<+B><+!>W<-!>
+
+>
+			 1 5 24 0 0 11 4369 1 0 12632256 0 0
+<+B><+!>Total<-!>
+
+>
+			 2 0 0 0 0 0 4369 1 0 0 0 0
+Jaque
+
+>
+			 2 1 16 0 0 0 4369 1 0 0 0 0
+<+A>467.00
+
+>
+			 2 2 16 0 0 0 4369 1 0 0 0 0
+<+A>398.00
+
+>
+			 2 3 16 0 0 0 4369 1 0 0 0 0
+<+A>329.00
+
+>
+			 2 4 16 0 0 0 4369 1 0 0 0 0
+<+A>345.00
+
+>
+			 2 5 80 0 0 0 4369 1 0 0 0 0
+<+A>1539.00
+
+>
+<+A>@@sum(B3..E3)
+
+>
+			 3 0 0 0 0 0 4369 1 0 0 0 0
+<+!>Henry<-!>
+
+>
+			 3 1 16 0 0 0 4369 1 0 0 0 0
+<+A>361.00
+
+>
+			 3 2 16 0 0 0 4369 1 0 0 0 0
+<+A>454.00
+
+>
+			 3 3 16 0 0 0 4369 1 0 0 0 0
+<+A>468.00
+
+>
+			 3 4 16 0 0 0 4369 1 0 0 0 0
+<+A>423.00
+
+>
+			 3 5 80 0 0 0 4369 1 0 0 0 0
+<+A>1706.00
+
+>
+<+A>@@sum(B4..E4)
+
+>
+			 4 0 0 0 0 0 4369 1 0 0 0 0
+Irene
+
+>
+			 4 1 16 0 0 0 4369 1 0 0 0 0
+<+A>172.00
+
+>
+			 4 2 16 0 0 0 4369 1 0 0 0 0
+<+A>348.00
+
+>
+			 4 3 16 0 0 0 4369 1 0 0 0 0
+<+A>203.00
+
+>
+			 4 4 16 0 0 0 4369 1 0 0 0 0
+<+A>432.00
+
+>
+			 4 5 80 0 0 0 4369 1 0 0 0 0
+<+A>1155.00
+
+>
+<+A>@@sum(B5..E5)
+
+>
+		[e]
+	[tble]
+[lay]
+	Standard
+	519
+	[rght]
+		12960
+		10080
+		1
+		806
+		720
+		1
+		1094
+		720
+		0
+		1
+		0
+		1
+		0
+		2
+		1
+		806
+		9360
+		0
+	[hrght]
+	[lyfrm]
+		1
+		11200
+		0
+		0
+		10080
+		1094
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		1
+	[frmlay]
+		1094
+		10080
+		1
+		892
+		0
+		1
+		0
+		720
+		0
+		1
+		0
+		1
+		1
+		1
+		1
+		892
+		9360
+		0
+	[txt]
+
+>
+	[frght]
+	[lyfrm]
+		1
+		13248
+		0
+		12240
+		10080
+		12960
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		2
+	[frmlay]
+		12960
+		10080
+		1
+		864
+		0
+		1
+		12240
+		720
+		0
+		1
+		0
+		1
+		1
+		1
+		1
+		864
+		9360
+		0
+	[txt]
+<+B>
+
+>
+[elay]
+[l1]
+	0
+[pg]
+	8
+	12 0 68 32 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	27 175 23 32 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	49 269 6 64 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	61 0 5 32 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 5 0 0
+	77 176 61 32 0 16 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	91 263 22 32 0 16 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	107 270 20 0 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	112 172 61 1025 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+[edoc]
+@Heading@<:#422,8554><:f><:f>Ami Pro 3.0  
+
+<:#1420,8554>We at Mercury Sports have selected a new word processor </W> Ami Pro. An evaluation group has been studying the alternatives for the last few months and has unanimously chosen Ami Pro for its power and extreme ease of use. 
+<:f>Ami Pro offers an excellent tutorial for learning the basics. And the on-line help feature is so detailed, you will never be left in the dark.
+
+<:#852,8554>Most word processors force you to think in words alone, while most people think in pictures, symbols, and colors too. Finally there</R>s a word processor that works and thinks the same way you do 
+</V> visually.
+
+@Heading@<:s><:#422,8554>Preview
+
+@Subhead@<:#284,8554>Stylesheets
+
+<:#852,8554>The only word processor that lets you preview your stylesheets before you choose. Need to see the differences between several memo stylesheets?  Just click on preview and know exactly what your memo is going to look like.
+
+@Subhead@<:s><:#284,8554>Ami Pro files
+
+<:#852,8554>Preview any file </W> Ami Pro or any supported file. Change the view of any document in the view windows to see exactly what you need to see. Scroll the file and even copy text from the preview and paste it in a working file.
+
+@Heading@<:s><:#422,8554>Drag and Drop
+
+@Numbered List@<:#568,8554><-!>Copy & Move - Just hold down the Ctrl key when you drag and you</R>ll copy the shaded text to the new location. Without the Ctrl key you are moving the data.<-!><-!>
+
+@Numbered List@<:s><:#568,8554>SmartIcons - Drag and Drop your favorite SmartIcons directly on the screen to group related icons together.
+
+@Numbered List@<:s><:#284,8554>Tables - Just shade the column or row and move to the new location. 
+
+@Heading@<:s><:#422,8554>Fast Format
+
+@Indent@<:#852,8554>Attributes	You</R>ve never seen anything like it. Fast Format is the best thing since Ami Pro. Want to change some text?  Just do it once then paint the format to the rest. of the text.
+
+@Indent@<:#852,8554>Styles	With Fast format, you</R>ll be finished with your table data before the other guys get started. Ami Pro Fast Format is the best way to format data in tables or forms.
+
+@Heading@<:s><:#422,8554>SmartIcons
+
+@Subhead@<:s><:#284,8554>Direct Manipulation
+
+<:#1420,8554>SmartIcons are in many Lotus products including Ami Pro, 1-2-3 for Windows and OS/2, Freelance graphics for Windows and OS/2, Lotus Notes, cc:Mail, Lotus Write, SmarText and the Organizer. SmartIcons are designed with one thing in mind 
+</W> to help you get your work completed faster. Each SmartIcon represents a feature in Ami Pro. Just Click and let Ami Pro do the rest.
+
+@Subhead@<:s><:#284,8554>SmartIcon Sets
+
+<:s><:#852,8554>You can create as many SmartIcon sets as you want. Ami Pro comes with sets for Basic editing, Long documents, Graphics, Tables and more. Customize your own set for the type of work you do every day.
+
+@Subhead@<:s><:#284,8554>Edit Icons
+
+<:#568,8554>With Ami Pro</R>s powerful macro language you can program Ami Pro to do whatever you want. Then draw your own icon and your one click away from anything Ami Pro can do.
+
+@Heading@<:#422,8554>SmartMerge
+
+@Subhead@<:s><:#284,8554>Step by Step Merge
+
+<:#1136,8554>Select a letter stylesheet. Then choose merge from the file menu. Ami Pro</R>s merge feature will lead you through the merge process. When asked for a datafile, choose MERCDATA.SAM. This file contains sports heros and their respective sports. You can also m
+erge with 1-2-3 files as well as dBase<+&></n><-&> Paradox<+&></n><-&> and other database files.
+
+@Subhead@<:#284,8554>Card-Style Merge Data Maintenance
+
+<:#852,8554>What can be simpler?  View and edit your Merge data through a familiar card-file view. When you</R>re on step 2 of SmartMerge, choose to edit the datafile and take a tour of the Card-Style Data manger.
+
+@Heading@<:#422,8554>Envelope Printing
+
+@Subhead@<:#284,8554>Envelopes are Only a Click Away
+
+<:#1136,8554>Now just choose Print Envelope and Ami Pro will locate the address in your document, display a list of envelope types automatically configured, and then click OK. It</R>s done. If you use Avery<+&></n><-&> labels, run LABEL.SMM macro. Ami Pro will print or 
+merge to many popular Avery label styles.
+
+@Heading@<:#422,8554>Styles
+
+@Subhead@<:#284,8554>Bullets
+
+<:#1136,8554>Do you use bullets?  Would you like to use bullets?  Ami Pro makes bullets simple. Just shade the text, choose a bullet style and presto you have bullets. Choose from several different bullet and numbered list styles. Make your memos look great and your rep
+orts stand out.
+
+@Subhead@<:#284,8554>Numbered Lists
+
+<:#1136,8554>Ami Pro numbered lists automatically renumber when new items are entered into the list. That</R>s because Ami Pro uses styles to create its numbered lists. Numbered lists can also be right aligned. Or manually setup a custom numbering style. With nine level
+s of numbering you have full freedom to customize.
+
+@Sports@<:I0,360,360,0><:#284,8554>Baseball
+
+@Sports@<:#284,8554>Football 
+
+@Sports@<:#284,8554>Basketball
+
+@Sports@<:#284,8554>Hockey
+
+@Sports@<:#284,8554>Cricket
+
+@Sports@<:#284,8554>Tennis
+
+@Sports@<:#284,8554>Archery
+
+@Sports@<:#284,8554>Polo
+
+@Sports@<:#284,8554>Horseshoes
+
+@Sports@<:#284,8554>Bicycling
+
+@Sports@<:#284,8554>Skiing
+
+@Sports@<:#284,8554>Track and Field 
+
+@Subhead@<:#284,8554>Use the Status Bar
+
+<:#1136,8554>Ami Pro</R>s unique status bar not only provides status information on style, font, point size and other pertinent information, but also provides a means of modifying these attributes by simply clicking on the section of the status bar that is displaying wh
+at you want to change
+
+@Heading@<:#422,4354>Outliner
+
+@Subhead@<:#284,4354>Collapsible Outliner
+
+<:#1420,4354>Ami Pro</R>s collapsible outliner is an indispensable tool for anyone who uses a word processor. For writing outlines, reports, or any document with hierarchical format, the collapsible outliner is the way to go.
+
+@Heading@<:#422,4354>OLE/DDE
+
+@Subhead@<:#284,4354>A Technology Advantage
+
+<:#1136,4378>With Dynamic Data Exchange and Object Linking and Embedding available, Ami Pro can display and update data created in any application supporting DDE or OLE.
+
+@Subhead@<:#284,8554>TOOLS
+
+<:#1136,8554>Technology for Object Oriented Linking and Sharing. In place editing of objects within Ami Pro. OLE is great, but if you need to see your document as you edit the OLE object, it doesn</R>t quite work. That</R>s where TOOLS comes in. Just edit an Ami Pro dra
+wing and you</R>ll see how great in-place editing of graphics really is.
+
+@Heading@<:#422,8554>Charting
+
+@Subhead@<:#284,8554>Dozens of Chart Types
+
+<:#1136,8554>By now you have probably seen that Ami Pro likes to make things quick and easy without sacrificing quality. Charting is no different. Ami Pro</R>s charting feature allows dozens of chart types with a visual interface that let</R>s you see how your chart loo
+ks. Just copy the data to the clipboard, create a frame, and select charting. It</R>s that simple!
+
+<:t0>
+
+@Subhead@<:#284,8554>Edit Charts with Drawing Tools
+
+<:#1136,8554>After creating your chart, you probably want to make a few changes to it just to add a little personal touch. Well, since Ami Pro creates charts using its own drawing tools, all you have to do is start drawing. You can then add text, bezier curves, ellipses
+, rectangles, lines and arrows and much more.
+
+@Heading@<:#422,8554>Drawing
+
+<:#852,8554>Use Ami Pro</R>s Drawing to create freehand drawings. Use on-screen editing to create interesting effects with Ami Pro Drawing. Accent your document with over 100 clipart images or import Freelance clipart that you can edit completely with Ami Pro Drawing.
+
+@Heading@<:#422,8554>Graphics
+
+@Subhead@<:#284,8554>Special Effects
+
+<:#852,8554>With Drawing and Charting, Graphics import filters and Image processing capabilities, Ami Pro stands alone as Word Processor with the most graphical power. Using TOOLS Ami Pro couples form with functionality. Just give it a try, and see what 
+<+#>you<-#> think.
+
+@Heading@<:#422,8554>Mail Enabled
+
+@Subhead@<:#284,8554>cc:Mail & Lotus Notes
+
+<:#852,8554>How easy can e:Mail be?  With Ami Pro e:Mail is just a click away. That</R>s right, just click on the mail icon and Ami Pro asks to whom you want to send the document. Just fill in the blanks and off it goes.
+
+<:#568,8554>Using cc:Mail or Lotus Notes two of the greatest communications programs on the market, you can send mail to anyone connected to your network (local or wide area).
+
+@Subhead@<:#284,8554>Macros for other e-mail
+
+<:#852,8554>Ami Pro offers macros and filters to help you send documents if you happen to be using any other e-mail program. With the Ami Pro SmartIcon editor any macro is just a click away.
+
+@Heading@<:#422,8554>Tables
+
+@Subhead@<:#284,8554>Great for Forms
+
+<:#852,8554>Ami Pro tables have always been the easiest way to create forms. Just look at the table below. Created in just a few minutes, this table looks great and better yet makes the information contained in the table easy to read and understand.
+
+@Subhead@<:#284,8554>Calculations
+
+<:#568,8554>Ami Pro has built-in math functions in Tables. Basic four-function math and a Sum function. Great for doing Expense reports and documents with basic math needs.
+
+@Heading@<:#422,8554>Grammar Checker
+
+<:#852,8554>Now you can checks the grammatical correctness of your document directly from within Ami Pro. Choose the Ami Pro grammar checker and let it alert you to possible grammatical errors. It will step you through your document making suggestions for your writing.
+
+@Heading@<:#422,8554>Revision Marking
+
+@Subhead@<:#284,8554>Show all edits
+
+<:#1420,8554>What is revision marking? Revision marking is a way of seeing what changes have been made to a document. For instance let</R>s say you give me a document and want to know what changes I would make. I would simply turn on Revision marking and make my changes
+. Anything I add would appear in a different color and attribute as will anything I delete.
+
+@Subhead@<:#284,8554>Review Revisions
+
+<:#1136,8554>When I give you the document back you can then review my revisions. Ami Pro will go to the first revision and ask you if you want to accept or cancel my revision suggestion. That</R>s all there is to it. The color and attributes that appear on the screen ar
+e completely user customizable.
+
+@Heading@<:#422,8554>Notes
+
+@Subhead@<:#284,8554>Color-Coded Notes
+
+<:#852,8554>Wouldn</R>t it be nice to be able to scan a document and immediately see if there are any notes from your manager, or chief editor?  
+<:N708917759,JNB,65535,1,1
+Don't forget to mention that each Ami Pro user can have a different color note.  An editor could then quickly see who left which note.
+
+>
+ With Ami Pro</R>s color notes you can.  In fact everyone in your office or on your network can have their own color note.
+
+@Subhead@<:#284,8554>Print Notes and Authors
+
+<:#1136,8554>Notes can display in color or by the author</R>s initials. Ami Pro can also print the notes as annotations at the end of the document with page number references to each note in the document. The best way to elicit information from a number of people and qu
+ickly summarize those comments.
+
+@Heading@<:#422,8554>Presentations
+
+@Subhead@<:#284,8554>Automatic Presentations with Freelance
+
+<:#1136,8554>Anyone who creates presentations on a regular basis has had to put together a presentation at the last minute or even worse had to ask someone who had never created a presentation before to try. With Ami Pro and Freelance, there is no work involved. Actuall
+y there is </W> copy and paste. That</R>s all there is to it.
+
+<:#852,8554>Just copy an outline from Ami Pro and paste it into Freelance and Freelance automatically creates a presentation. You can then choose from one of Freelances 60 or so presentation styles and your entire presentation is complete.
+
+@Heading@<:#422,8554>Clean Screen
+
+@Subhead@<:#284,8554>Because Your Work is More Important Than Ours
+
+<:#852,8554>Give me back my document!!!  With all these neat controls on-screen, sometimes you end up looking at only a small portion of your document. With Clean Screen, you can claim back all that screen space while still keeping full word processing functionality.
+
+@Heading@<:#422,8554>QuickStart Tutorial
+
+<:#568,8554>Ami Pro 3.0 now walks you through basic lessons on Tables, Style sheets, Frames and shows you "What is New in Ami Pro 3.0."
+
+@Heading@<:#422,8554>Transition Help from WordPerfect
+
+@Subhead@<:#284,8554>WordPerfect SwitchKit
+
+<:#852,8554>With the SwitchKit installed, your keystroke knowledge of WordPerfect works for you as you learn Ami Pro. Just type in the WordPerfect keystrokes for the function you want, and the SwitchKit will demonstrate the function you want in Ami Pro.
+
+@Subhead@<:#284,8554>Batch File Conversion
+
+<:#852,8554>A second part of the SwitchKit is the batch conversion utility. Tell Ami Pro what directory of documents or specify particular documents you want converted, and Ami Pro will translate them to Ami Pro format all at once.
+
+@Heading@<:#422,8554>Laptop Installation
+
+<:#1136,8554>Now you can install Ami Pro especially for laptops. This installation of Ami Pro reduces the hard disk requirements of the product to under 4MB. The higher-end functionality is not installed, but you will find all the basic word processing features you need
+ to get your documents completed.
+
+@Heading@<:#422,8554>Programmability
+
+@Subhead@<:#284,8554>The Ami Pro Macro Language
+
+<:#1136,8554>A macro language within a word processor?  You mean just record and playback, right?  Wrong!  Ami Pro certainly has record and playback, but its macro language is far richer. With it, you can customize Ami Pro by adding menus or menu items. Even create dial
+og boxes with Ami Pro</R>s dialog box editor. All in a BASIC-like language.
+
+@Subhead@<:#284,8554>The Macro Developer</R>s Kit
+
+<:#852,8554>A great language is one thing, but you need great technical support to put it to work for you. To that end, get the Ami Pro Macro Developer</R>s Kit (MDK). The MDK contains a Dialog editor and full printed documentation of the language.
+
+>
+SMO O        ק	kf(      ק	k    P SMt Q $       ק	k>( B   K ykR    ÿÿÿ         w‹ָAדƒ   g‘kyK 8µ  g B 
+ > Z*S Q  ÿÿÿ  ¿ÿ     )Mü&)U‏‹ 
+ E›*Z|> ח 
+ E ) ֲ¿ /T R       ¿ D-]¬ֲ/ ) ¿¯ U S   ÿÿ  ¯ 0 S›¿ ) 
+ ÊdV T       Ê P‰
+d )   ֶTW U   ÿÿ  ֶ  @|T ב  ם!װX V      2  ֱ- §R •s ‰› n׃ Zץ L-5Q(z§כ‏"פ]ן€ם¯ם׀ü®+u8cG=_)yˆ‏¸װCָx¾₪±׳ ’Hy†a½SםC5@-l˜÷Ýÿ'üYר€ü¥רֽרק! ב 	 ׁ$¸Y W   ÿ ÿ2 	 ¥0 U {v n Tײ >ש ,0T}ÿ×סמב$״a׃…ׁ²ׁ׃ß°ק’wf+AC,^m‚ ¸F¬{£§–ÚƒvL^ˆGְ8מ'Coÿ›ת¿נאיג*ß\Ü„ß¨Û׀ßתד$מ *N­^ַZ X             ÞPÿvü׳ funlngr[yY~Q‡ON—NO¦O®U±[»gֱpַ…ַַַֱ ¾©»­÷¶¶¿±ֶ±ֽ®׃£״Û™ב“בב‡ב~בzבvבnבfÛ^״\׃P׃IֽEּ<Ê3ֶ+ֶ"ֶֶָÊּֽ־‏׃ש״צÛףÝלביבוודטÝםÛעײרײûׂûׂ ׀ֽּּִִִִ"ֱ%¾*¾1¾3½8½:¾?¾@¾@ֱ@ִCִCֹ@ֽ@׀@ׂ=ײ:Ý3Þ,ו"לףףצצצשש‏‏ û ûרףעכטובבבבבבוזטכמףרûÿ"* ,ש1ש5צ:ף?נ@לFוIדIÞOÛTײTׂV׀Xּ^ִ^ֱ^¾^½^÷X·V´V²T²T®M®I­F­C­@­?­:­3­,­"­®²´··½û¾רֱעִטֹוּב׀בׂÛײ״Û׃ÝֽדÊוֶלֱנ»ף¸ש¶‏´²­­­­!­'­.­6²B¶E¶N»Tֱ\ִaֶfÊnÊvֽzֽ~ֽ‡Êֶ“¿™¶ ­£¦¦®®±±u®m®g¦g gg•g’gg‹l‡m‡p‡u~w~{~|||…|†z†yyvron†n…n…ff F {7[ Y             uÿvֻG ש¸¹¹¹¹¼$¹3²<®E¥MX’]j{qi{\{LaOc\]fSyE‰3–"  “3f(q†7^?T[Q{LuEq?d<U?J:T1]&[#UMG&?/7<3Eל ה®ß¼װֶÊײָÞֱו¹ן¸ר® «¥¥ !¡-¡7 /¥7¬7³7µ/µ-אבש¸ ך q3םְ\ Z             !§כ‹^0 ֽ3¿5°A¡N›T[f‹m†uyˆs’q£q«r¸ְ•÷ ‡¡†•y›n£g¯[ִHׂHױPֻg¿{¸†³¡–¡ְ­®» ִֽˆÙyÜnהgם[םNהAß3Ù3ױ3ֽ3 ײ ּ8aַ] [             ÿvhPj+ [[TZJaCn:ZCnCg@gCg6N6</8";<NZ‎gץyך‡ב“Ùװ¡־±ּ¾ֿַÙַÝ»ב±ח±ח®ף¡‎“‡zoh"r/z:JQzah[[ F]טנ¿^ \                9 '‡ (‰(‡(‚+,},}/{/{59<‚=†=‡=‰===<‰E‚N}Ushiye‡c^“^]¡]¨]±^³^´c´c¹e¹e¿i¿k¿r¿u¿´„´±±¡¡£¨•¨“­’­®‰±‡´‡´ƒ¼|¼z¼y¼v¹v¶v´v±v®v®y­y­z¨€““‰¦{¦u¦s¦s¡r¡rrs“w|‚v†ni^G­0®/¹/ֳ,ָ+ֹ(ֽ(ױ(Ù(א#ד#ד"י"כ"ננננננכיזדאÛÙײױֽֹָָָֹÛüאסדסדןאםאךßטÙךֽסְ´	­£"( z÷/Iֶ_ ]             O&? ְrװ ./)/$0"024
+48û>שAףEןHיNזTז\ד^דgדhדnדoדvדyדzז|ז~ז‡ז‰יילל’מ“ן”ן˜ןןמ¡ל¡ל₪י₪י¦ז¦ז¯ד¯Ý¯Ý¯Ü¯׳¯ײ¯׀¬׀¦ֽ¦ֽ₪ֽ¡ÊÊÊ˜ֽ“ֽ’ֽ׀׀׀‰׀‡ײ‡׳‚׳~׳|׳zײz׀zֽzÊ|ֹ~ֶ~ִ‚ֱ‡ֱ‰¿¿½’¼“÷”÷˜÷÷÷₪÷¦÷¯¼²½²¿¹ֱ÷ֳ½ֶ½Ê¾ֽֶ׀ֶײֶ׳ֶÜֶÝֶדֶז¾י½ן÷ן¹ף²ש²ש±û¯û¦‎₪ÿ¡˜”“ÿ’ÿ‎ûû‰û‡û‚û~ש~ש|שzשyרyרvףoףnףhרaש^ש\ûUûTONJEEEE"D$A$A'A)A,A,D,E.E.H,N,O)O)T$T$Z$\"\\\\\^^
+^^aaghnno
+oonnnn"h$h)g,a2^8\;U>OBNIEIAI>I8I6I4B4A2>0<0;0808/5/2/./ A¢S÷` ^   ÿÿ ÿÿ      
+   ‎ rXi^`_W`PjLrDxD~AA“A™DF₪P¬Z´b´u÷|÷‚´´–²±¢¬«¨µ£·¡ֱֶ—Ê“׀װˆײ~ÛxÛrÛjײ`ױ_װX׀RּHֹCֶ8ֲ6ֱ.÷'····¸½üֱקֲפֲעֶםÊח׀ו׀ßױÛÛ׳ÝװÞ׀ט־יֻמÊנִףִץֱÿ¾¼¸···±±±$±(±+±1±2±6³6·7¸6ֱ6ִ2Ê1ֻ+ֿ'װ!׳ÝוחחייםםÿעשעץפנפמפיקאתÞüÝüÛ ÛײײײײײÛÝÝÞאיילמעץÿüüקקפפפ!ם$ם+י1ח1ב6Ý;׳?װB׀E־GֻKִKֱM¼M·S³S±S«M©M¨K₪K₪I¢G¢E¢B¢?¢;¢7¢6¢1¢+¢'¢!¢¢¢¢₪¨ÿ©ף©נ±י³י·א¸Ý¾ײֱװִ׀ֻÊ־ֶ׀ֲװ½׳·Ýµב±ח«ם«ע¨פ¦ק¢ ¢¢¢¢¢¢(¦0¨6«?±GµKµS·X÷_½`ֱmֱrֱw½~·ˆµ«•¢—™‚z¡p¡i`Z™Z—WWˆZ€Z~Zx^x`wbsgrlrlrpnrnunujzf|`|_z_u_u^uXrX F•s(a _   ÿÿ ÿÿ             G ן×‏«ÿ««««&¥/5˜C‘MƒP}\neYsMs>UCYIPXFe5y%•
+•%Xaw)R3GOEs>h6g0Y.K0@-F"PMK@:3 ).%6ח•Üװ«Ê»¿ֵ¼׀´װ°א¬ך¢פ ü˜•— —(— (¢(¨(¨ ¬ ¬ײׁן× ך e&דµb `   ÿÿ ÿÿ             0 ֱ(²)¡3•@”H‹N†V`zcoxjƒe–ef©sµ¬ˆ•z•z‘}m”`Z¡N¹:ִ8ַEְZµm×u©}”†–‹¬­•¹ֱxֿjׂ`װZÝHדC׳3װ(Ê&ָ&ֱ( ׂ ¿*R÷c a   ÿÿ ÿÿ             * NRJL@R;^5K;^;W8W(A#,*,,AשKסWוeÜu׃Êִ•ְ¡¿²ֱ÷Ê´׃±׃₪װ£Üב—סשxm^Y`m/q@qEmRYNR rTÚם¯d b   ÿÿ ÿÿ             ’ ‡ƒyuuss&u,w,y-|-~---ƒ-‡-‡,4y>uHlV^i[vYzW‚UU—T™UU¢W₪W¦Y¦Y©[©[¯^¯b¯h¯n¯w¦|₪ƒ‡‘—˜‹ˆ‚¥€¥¨z«z¬v¬r²n²m²i²g²e²b®b¬b«b¨b¨e¨g¥g¥irˆ‘u—s—o—n—l—j—h—h–h‘hjˆozunye~_ƒX‡R–7¥"¨®·ְֱֳַֽ׀ÚÝßהווטטםםםטטוהאßÚ׀׀ֽַֳֱְְֱֳÿ׀נÚיÝיÝבÚÝÚÛ׳Û׳Ú׃Ú׀Ûַי·פ¬ת¨‡ ~®#?¹e c   ÿÿ ÿÿ             ױ $# ###$()ש-נ.ם3ך7ט8דAÞHÛIÙR׳V׳Z׳`׳b׳cÙgÙjÙmÛnÛrÞrÞuÞxÞxßxß~ד~דוƒו‰וו‘ו’ו•ד–ß™Þ™ÞÛÙ׳װ׀־ּÊֶֲ™ֲ–ֲ–ֲ’ֲ‘ֲֲ‰ֲƒֲֲ~ֶ~ֶxֶxÊxּrּnּmÊjֶjֲm¾n¾r·r·xµx³{³~¯®ƒ®‰®®‘®’®–®™®®®£¯₪³×µ¬·¬·±¾±ֲ¹ֶ¹Ê¹ּ¹־¹׀¹׳¹Û±Þ±ד±ו¬ך×ך₪ם£ם¢ננס–ק–ק’ק‘קק‰קƒקק~ס~נxנxנrםrםnםjםgםcםbך`ך_ךZםSםRםNנHנEקCשAÿ887774333 3 4!4!7$7$8!:!A!C CEHHINNNNNRRRÿR‎RתSשSשVקZק_ק`ש`ת`‎`ÿ`````_ZZV!S*R*N.H4C8A97?3?.?-?)9(8(5$4#.#+#*#$# ) £7 Lf d       L7 £א ף§ ) 1 Ag e   ÿÿ  A1 װ ג‹— b ?¹+‡h f                 ÿ   @`ק¹©¹?‡–‡״eף%ף§ed‡¾‡+¹Ü¹@` ^ ן‎(‡i g             ףÿ Dשת ß<J<`ßלßû“q“…BB(‎I‎ן‡ֿ‡ß< >)צUj h                     E 'צ)ט0Ú2ֿ6ֱ:°:61ƒ&zupדpÊz¯€ˆ—u¨d¹TֽKדAףABL)V5_@pUI@7+‎קצךצ׃צְר«‏›‚k(Z<LO>j4,¬)ױ)ע)/$36>NIcVri}{…£¶ÊˆÚ‚טצwmb' ײ L‎´k i                     + c‎4׳.מ!‏! )ן1א4ׁ6ֱ4´1§'ןßֽ‎~‎Q״OעL
+L$P<XSdhpt”„¯־ן…~)s9eKQX@b+kqyן´‎c‎ R ְסק	zl j                     
+ אz.	zU	¾ק	ס˜	סB	h	סְס		¾אz &‎‎,‡m k                     ? V‎‎‡F‡kהƒהי“לת ¥¨,×@¬W­e¯t°‡‡p [‏Kü;ת#קץ‎סנכגזװÜֻוָס¾‏µ«‚#t&_,M&7"%ü כÿU‎‘BֱBÊCֿEװMÙVÛ`Ùk״uװ{ׁ„Ê‰ֳ“»—­z‘BV‎ *ע½}n l                     @ חע}Ú}üÚÚ Þ&ג-ן2û69";7?M?[@hD}–}”e‘PA1‹ˆ†ע‚ח|״wֹmֱv¿‚¶×£“«„°x¶i¸T½B¸,´«ÿפ€עnעחע!7R7Z7_:eBjJkTjahkeqax[~U†L?‘‘!7חע b + no m  ÿ  ÿ                +Hד – +nnֳLÜÜ’LNn¨n ֶ +H ^ Úדnp n  ÿ  ÿ                ֹ%5%Lֶ׳ֶחyZyp( (ד4דÚn÷nֹ% >Þ@vq o  ÿ  ÿ       ּÿ  ÿÿE פעגׂֵ÷¬!!‹{mcÿ]כZֻZ³c˜i„pq‚\’K₪:¹2ּ)ß)ע)4= G+V@‎4ר+נ"להÞןÞװÞ¿Þ×א•ו†מküUE$66)Qq•»Ûץ(73J@[Seen{pv¡vµpֵjׂhד`נVÿHפ ײ 8דur p  ÿ  ÿ           *   + OדֱױטששלÛֻ½­“ ‰כˆ׳‰ֵ¸דjד>ֲ;Û8פ8
+<"C=PR[]khmu÷uÙnתg\$O5;D(MV\מd׳דOד R «׳Þ	as q  ÿ  ÿ          X-  
+ ֻa	a?	¥Þ	׳‚	׳,	O	׳«׳ף¥ֻa &ודnt r  ÿ  ÿ               ? ?דוn.nSÊkÊv׀}׃…ב‰לÿ‘“'•=–M˜\™nןnכWיAח2ו"ד
+ארÞהÚ׳װֹֿ»ֵ²־®Ú©ח›פ‘û„wjZE3תץנוזװו>דy(©(²*·+¼3ֱ<ֳFֱRְ\¼a¹k²o¬y₪€–‚b‚y(?ד *xÛ×c  s  ÿ  ÿ               @ ׁÛxcֳcטֲüֲ
+ֵֹױד!ף%'*3+@,N.c‚c€M~9{&zx‏sלq״n׀hֱc¯Y©b§n{’‰…y—o_¡P₪=×)₪ —עזzÝkÛZÛׁÛ = F L$Q)U4V=UJUTQYM_Gg?o5t+xצxׁÛSSֽ W  ` ` .ׂשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿûÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿûÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿףÿ‏?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿûÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿקÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿקÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿחÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿקÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿ€ÿןÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿןÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿֿÿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿןÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ€ßÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿױWßÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿßÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿ€ ¿ÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ¿ÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ?ÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¿ÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿUWUÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿüÿ_ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ  ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿ‏ÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿü?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿU]UTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿûÿשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿכÿבÿÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿûÿשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ     ÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿUuUuU_ÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ׳ÿ׳ÿÿר?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿקÿקÿÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ @ ְ  רÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿןÿןÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ¯ÿ/ÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿןÿןÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ @  ַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿUUUUWַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ‏ÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿßÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏     ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿ‏?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿßשÿג?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿ‏?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏    א ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿUe\UUסUUÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿֿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןüÿÿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿןףÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿ‏      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿUUUU\UUUUÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿחûÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿקÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿ‏      ÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿ‎ÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקשÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿ‎ÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿ‏       ÿÿÿÿÿÿÿÿÿÿÿÿרÿÿUYWU]UUUUU_ÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿף‎ÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü‏        ÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿû‎ÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשֱü        ÿÿÿÿÿÿÿÿÿÿÿüױ‎UUUUYUUUUUUWÿÿÿÿÿÿÿÿÿÿÿרÿÿÿש‏ÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ‎ÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿû <         ?ÿÿÿÿÿÿÿÿÿÿר?ÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü?ÿÿ‎‏ÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿש?ÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿר€  €       ÿÿÿÿÿÿÿÿÿÿר•]UVUױUUUUUUUUWÿÿÿÿÿÿÿÿÿÿרÿÿüÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏€   €       ÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿ‎ÿÿתÿûÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿרְ  ~ָ       ÿÿÿÿÿÿÿÿÿÿרױUUUPUUUUUUUGÿÿÿÿÿÿÿÿÿÿÿßÿÿ‏נ5ÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿ‎ÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿשְ  ~ְ       ÿÿÿÿÿÿÿÿÿÿשֿÿÿ€ÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüֿÿÿ€‏אÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûֿÿÿ‏ÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ְ  ?ְ       ?ÿÿÿÿÿÿÿÿÿÿשֵUU W@UUUUUUT?ÿÿÿÿÿÿÿÿÿÿשֿÿÿ€‎ְÿÿÿÿÿÿü?ÿÿÿÿÿÿÿÿÿÿûֿÿÿÿÿÿֻÿÿÿÿÿÿü?ÿÿÿÿÿÿÿÿÿÿשא  ÿ€       ÿÿÿÿÿÿÿÿÿÿשחÿÿ }€ÿÿÿÿÿÿררְÿÿÿÿÿשחÿÿ y€ÿÿÿÿÿÿררְÿÿÿÿÿÿחÿÿÿ}ÿ‡ÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿüא  ÿ„ÿÿֿ‏ ֳסÿÿÿÿÿÿÿÿÿÿÿשוUU U   U ר @~ÿÿÿÿÿüחÿÿ {   0ÿ€<ר @~ÿÿÿÿÿשחÿÿÿÿÿÿÿÿÿÿÿסÿÿÿÿÿÿÿÿÿÿÿתנ  ÿˆÿÿֿÿÿףקÿÿÿÿ¿רÿÿÿÿÿרקÿÿ ;   0 ~ ר  > ÿÿÿÿÿ‏קÿÿ 3   0 ~ ר  > ÿÿÿÿÿ‏קÿÿÿ»ÿÿÿÿÿÿÿקÿÿÿÿ¿רÿÿÿÿÿüנ  ÿׁÿÿֿÿֳÿûףÿֿÿÿÿסÿÿÿÿÿüסUU      ר   <ÿÿÿÿÿûףÿÿ &    < ר   <ÿÿÿÿÿüףÿÿÿקÿÿßÿÿÿÿףÿֿÿÿÿסÿÿÿÿÿ‎נ  ÿ׃ÿ?ÿÿַÿûדÿֿÿןßדÿÿÿÿÿüףÿÿ      8  נ   ÿÿÿÿÿשףÿÿ      8  נ   ÿÿÿÿÿûףÿÿÿ׳ÿ?ÿÿÿÿûדÿֿÿןßדÿÿÿÿÿûר ÿחÿ?ÿÿֿÿקדÿßÿןßדÿÿÿÿÿûשUT         נ  ÿÿÿÿÿתשÿ‏        נ  ÿÿÿÿÿתשÿÿÿןÿ?ÿÿßÿקדÿßÿןßדÿÿÿÿÿתר ÿןÿ? ßנקחÿß‡ןַֿÿÿÿÿÿ‎שÿ‏          נ   ÿÿÿÿÿ‎שÿ‏          נ   ÿÿÿÿÿûשÿÿÿןÿ? ?ßנקחÿß‡ןַֿÿÿÿÿÿשר ÿÿÿ> ßְgחÿןÿÿÿÿÿÿûשUT          נ  ÿÿÿÿÿרשÿ‏          נ  ÿÿÿÿÿרשÿÿÿÿÿ> ?ßְgחÿןÿÿÿÿÿÿתü ÿÿ‏> ?ÿ€'חÿ?ןÿÿÿÿÿÿ‏üÿ‏    ְ0  נ 8 ÿÿÿÿÿ‏üÿ‏    ְ0  נ 8 ÿÿÿÿÿ‎üÿÿÿÿ‏>ÿ?ÿ'חÿ?ןÿÿÿÿÿÿרü ÿÿ~| >¿€ַÿ¿?ֿÿÿÿÿÿÿ‏üUT    U@@  א 0 ÿÿÿÿÿרüÿü    ְ`  א 0 ÿÿÿÿÿ‏üÿÿÿÿ~|‏¿ַÿ¿?ֿÿÿÿÿÿÿר‏ ק‏‏‏>¿ wַÿ¿ÿֿ‏?ÿÿÿÿÿ‏‏ü    ְ` 8pא   ?ÿÿÿÿÿר‏ü    ְ` 8pא   ?ÿÿÿÿÿ‎‏ÿק‏‏ÿ‏¿8wַÿ¿ÿֿ‏?ÿÿÿÿÿ‏‏ ףü‏‏?ÿ> ÿֿÿ?ÿüÿÿÿÿÿת‏UT    @  Pרא   ÿÿÿÿÿ‏‏ü    ְ  pרא   ÿÿÿÿÿ‏‏ÿףü‏ÿÿÿ>pÿֿÿ?ÿüÿÿÿÿÿש‏ ףüü‏ÿ~ÿֿÿ?ÿüÿÿÿÿÿÿר‏ü       Cנא   ÿÿÿÿÿÿר‏ü       Cנא   ÿÿÿÿÿÿר‏ÿקüü‏ÿ~Cÿֿÿ?ÿüÿÿÿÿÿÿüÿ סרüüü~ÿÿ‏?רÿÿÿÿÿÿûÿT      נְ@ > ÿÿÿÿÿÿרÿ?ü €    נְ@ > ÿÿÿÿÿÿרÿ?ÿקשüÿüü~ÿÿ‏?רÿÿÿÿÿÿרÿ בסüÿüü|ÿÿ‏שÿÿÿÿÿÿתÿ?ר       נְ@ ~ÿÿÿÿÿÿרÿ?ר       נְ@ ~ÿÿÿÿÿÿרÿ?ÿחסüÿüü|ÿÿ‏שÿÿÿÿÿÿרÿ€אבüÿüü|ÿ‏‏ÿûÿÿÿÿÿÿרÿ•P       נְ  ‏ÿÿÿÿÿÿרÿר   € €נְ  ‏ÿÿÿÿÿÿרÿÿחדüÿüÿüüÿ‏‏ÿûÿÿÿÿÿÿרÿ€אֱרü ‎ü|ÿÿ‏~ÿףÿÿÿÿÿÿרÿר    €ÿא€  üÿÿÿÿÿÿרÿר    €ÿא€  üÿÿÿÿÿÿרÿÿןַרü ‎‎üÿÿ‏~ÿףÿÿÿÿÿÿרÿ€ארר ü‏~ÿÿ‏‏ÿקÿÿÿÿÿÿרÿ•P    ÿא€€ְ|ÿÿÿÿÿÿשÿר   €ÿא€€ְ|ÿÿÿÿÿÿרÿÿןשר üÿ‏ÿÿ‏‏ÿקÿÿÿÿÿÿרÿְאשר ר‏~ÿÿüüÿקÿÿÿÿÿÿÿÿֿר ÿ  €ÿ  €ְ|ÿÿÿÿÿÿרÿֿר ÿ  €ÿ  €ְ|ÿÿÿÿÿÿרÿֿÿןששÿר‏‏ÿÿüüÿקÿÿÿÿÿÿ‏ÿְְשר ר~~ÿßü‎ÿקÿÿÿÿÿÿרÿֵPT U  ‏  ְ|ÿÿÿÿÿÿÿÿֿנü ÿ€ ‏  ְ|ÿÿÿÿÿÿרÿֿÿֿÿשûÿש‏~ÿßü‎ÿקÿÿÿÿÿÿרÿאְסנר~ÿßÿ‎‎ÿחÿÿÿÿÿÿרÿחנü ‏€ נ  ְxÿÿÿÿÿÿרÿחנü ‏€ נ  ְxÿÿÿÿÿÿרÿחÿֿÿסףÿש‏ÿßÿ‎‎ÿחÿÿÿÿÿÿרÿאְסÿשר~ÿÿÿש‎ÿןÿÿÿÿÿÿרÿוPT   ְ   ְxÿÿÿÿÿÿרÿחנü €ְ   ְxÿÿÿÿÿÿרÿחÿßÿףÿÿש‏ÿÿÿש‎ÿןÿÿÿÿÿÿרÿאְסÿשר~ÿÿס‎ÿ¿ןÿÿÿÿÿÿרÿדנü  €@  ְ8ÿÿÿÿÿÿרÿדנü  €@  ְ8ÿÿÿÿÿÿüÿדÿßÿףÿשש‏ÿÿס‎ÿ¿ןÿÿÿÿÿÿûÿנ€ףÿשנ~ÿ¿ÿףשÿ¿ןÿÿÿÿÿÿûÿס@P    ` 0 ְ8ÿÿÿÿÿÿ‎ÿףאר   €` 0 ְ8ÿÿÿÿÿÿרÿףÿÿףÿשף‏ÿ¿ÿףשÿ¿ןÿÿÿÿÿÿרÿנ€דÿףנ~ÿ?ÿחûÿ¿ֿÿÿÿÿÿÿüÿףאר    p 8 ְ0ÿÿÿÿÿÿ‏ÿףאר    p 8 ְ0ÿÿÿÿÿÿÿÿףÿÿדÿףע~ÿ?ÿחûÿ¿ֿÿÿÿÿÿÿûÿר€דÿףנw‏?ÿûÿ¿ßÿÿÿÿÿÿûÿש@P    p < א0ÿÿÿÿÿÿתÿשא?ר    p < א0ÿÿÿÿÿÿ‎ÿשÿ¿ÿחÿףנw‏?ÿûÿ¿ßÿÿÿÿÿÿ‏ÿר       `yנ‏pƒנ<ÿÿÿÿÿÿשÿשנ?ü  `x ‏ ƒנ<ÿÿÿÿÿÿüÿשנ?ü  `x ‏ ƒנ<ÿÿÿÿÿÿ‏ÿשנ?ü  `yנ‏pƒנ<ÿÿÿÿÿÿרÿר      א~ÿ ÿÿÿÿÿÿÿÿÿÿÿ‎ÿרPT א~ÿ ÿÿÿÿÿÿÿÿÿÿÿשÿרנ?ü א~ÿ ÿÿÿÿÿÿÿÿÿÿÿרÿרנ?ü א~ÿ ÿÿÿÿÿÿÿÿÿÿÿûÿü      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿüÿÿÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿüÿÿÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿüÿÿÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿü      ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿüUUUUUTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿüÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿü      ?üÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿüÿÿÿÿü?ÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿüÿÿÿÿü?ÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿüÿÿÿÿü?ÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏      נÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿ‏UUUUUPÿ9ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿ‏ÿÿÿÿנÿ9ÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏ÿÿÿÿנÿ9ÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏  ü ÿאÿÿûÿÿÿÿÿÿÿÿÿÿÿתÿ‏?ÿ€ÿבÿ‏xÿÿÿÿÿÿÿÿÿÿÿÿÿרÿ‏?ÿÿÿÿבÿ‏{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿ‏?ÿÿÿÿבÿ‏{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿ € ÿֱÿÿסÿÿÿÿÿÿÿÿÿÿÿרÿÿPPUÿüק‏?ÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ?ÿנÿƒÿ‎קÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ?ÿנÿƒÿ‎קÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿר 0 ÿְ ÿֱÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿ> ֻÿü;אÿ‎ÿÿÿÿÿÿÿÿÿÿÿרÿÿ?רûÿÿûאÿ‎ÿÿÿÿÿÿÿÿÿÿÿûÿÿ?רûÿÿûאÿ‎ÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ  ְ ÿְ‏?ְÿÿÿÿÿÿÿÿÿÿÿרÿÿUTדק‏?ÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ‡ÿקüÿק‏?ÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‡ÿקüÿק‏?ÿÿÿÿÿÿÿÿÿÿÿÿüÿÿ°   ü#ÿ‏ ÿÿÿÿÿÿÿÿÿÿÿשÿÿ‏ֿנ4?ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿ¾ÿֿנü4?ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ¾ÿֿנü4?ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿתÿÿְ   ÿדֱַד ÿÿÿÿÿÿÿÿÿÿרÿ‏UU@ücÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿשÿÿֱÿÿ?אÿדÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿרÿÿֱÿÿ?אÿדÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿרÿÿ€  ÿְֳÿÿÿÿÿÿÿÿÿÿשÿשÿתÿƒֳûÿ‎ןֿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿ‏ÿƒÿûÿ‎ןֿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿƒÿûÿ‎ןֿÿÿÿÿÿÿÿÿÿÿÿ‎ÿü@  üד€ ÿÿÿÿÿÿÿÿÿÿתÿהEUQU<ÿÿןÿßקÿÿÿÿÿÿÿÿÿÿרÿüOÿשÿüÿÿןÿßקÿÿÿÿÿÿÿÿÿÿרÿüOÿשÿüÿÿןÿßקÿÿÿÿÿÿÿÿÿÿÿÿףְ  ֳרc€  8ÿÿÿÿÿÿÿÿÿÿÿÿ“ַÿחüֳÿÿזֽÿ¿ןÿÿÿÿÿÿÿÿÿÿ‎ÿףַÿקüֳÿÿזֽÿ¿ןÿÿÿÿÿÿÿÿÿÿתÿףַÿקüֳÿÿזֽÿ¿ןÿÿÿÿÿÿÿÿÿÿתÿֿא   |?רq   @ÿÿÿÿÿÿÿÿÿÿ‏üOוUEPL?ÿ}ןß»ÿÿÿÿÿÿÿÿÿÿרÿֿחÿןר|?ÿ}ןß»ÿÿÿÿÿÿÿÿÿÿשÿֿחÿןר|?ÿ}ןß»ÿÿÿÿÿÿÿÿÿÿרÿ?א  דÿנp   @ÿÿÿÿÿÿÿÿÿÿÿשף?דÿßא#ÿÿ}Ý»ÿÿÿÿÿÿÿÿÿÿÿרÿ?דÿÿבדÿÿ}Ý»ÿÿÿÿÿÿÿÿÿÿÿûÿ?דÿÿבדÿÿ}Ý»ÿÿÿÿÿÿÿÿÿÿÿתüÿנ @ÿנא  x ÿÿÿÿÿÿÿÿÿÿ‏לÿסUÿü‎¿~ûÿÿÿÿÿÿÿÿÿÿרüÿףÿÿÿü‎¿~ûÿÿÿÿÿÿÿÿÿÿרüÿףÿÿÿü‎¿~ûÿÿÿÿÿÿÿÿÿÿûףÿנ €pÿנ   x ÿÿÿÿÿÿÿÿÿÿ‎׃ÿףÿ ÿÿûף‏ßÿÿÿÿÿÿÿÿÿÿרףÿףÿÿpÿÿûף‏ßÿÿÿÿÿÿÿÿÿÿרףÿףÿÿpÿÿûף‏ßÿÿÿÿÿÿÿÿÿÿרֿÿנ ÿÿנ ר ÿÿÿÿÿÿÿÿÿÿרÿסU@ÿÿÿקחֽÿ?ÿÿÿÿÿÿÿÿÿÿüֿÿסÿÿÿÿÿקחֽÿ?ÿÿÿÿÿÿÿÿÿÿüֿÿסÿÿÿÿÿקחֽÿ?ÿÿÿÿÿÿÿÿÿÿÿ?ÿר `?ÿÿר 1ü`ÿÿÿÿÿÿÿÿÿÿÿר?ÿשÿ?ÿÿÿ־9ülÿÿÿÿÿÿÿÿÿÿÿת?ÿשÿx?ÿÿÿ־9ülÿÿÿÿÿÿÿÿÿÿÿת?ÿשÿx?ÿÿÿ־9ülÿÿÿÿÿÿÿÿÿÿÿשÿÿר  ÿÿÿ‏0ÿûÿשÿÿÿÿÿÿÿÿÿÿÿרÿÿרU@ÿÿÿ‏<ÿûÿשÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿרÿ`ÿÿÿ‏<ÿûÿשÿÿÿÿÿÿÿÿÿÿÿüÿÿרÿ`ÿÿÿ‏<ÿûÿשÿÿÿÿÿÿÿÿÿÿÿüÿÿר ÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿרÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿרÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿü ÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿüUÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿüÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿüÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿü ÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿü|ÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿü|ÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿü|ÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏ ?ÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿ‏P?ÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏x?ÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏x?ÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ‏ ÿÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿ‏ ÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿ‏ ÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿ‏ ÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿ‏ÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿ¿ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרSM/     S ך;	u  S ך;	-    SM,  )   S ך;	\ ¢ ז!ך0	    ÿÿÿ ÿÿÿ      gם     ק«זÛû6r×ק(ז	F 	צ.	p
+.	• 	‚	י	ִף­׃¢f§…½ײֽ*ֽן½ײ¥gÿ
+7©
+&Q
+!=	&£C‎a8˜ ¢ ׃4	   QQQ QQQ      ¾•ָ‚ ½׃כײ&E	hױנ¨כ	2	´2	ָט׃…3n *3¹8Gע‎[¶Ù¦½ת#ֻ‡ן‏0ֶ“«.=םÿ Z 9
+|   ÿÿÿ ÿÿÿ      ‏ֲ     ֱ9גl ֱ	»םר™z3¨ז[t.!³s R ׁֲ׃„   ÿך  ÿך       ח÷…
+ ׁÚ	ֲRָK@ׂ1“‚98+??Þס  ע1	   ÿֹ ÿֹ      ¥ךס Om9¨|ֳß¨ן»ßנץס/׳C=Gß^־כ¦ u//¬ֶ©aװָD † ¯אk
+ֿ
+   ÿֹ ÿֹ      		 ¼9	)R	&M	H@	“Y	¿†	ֽ¿	°׃	
+₪"
+”0
+s9
+fj
+@I
+סּ	א”	כ€	בE	כ#		תכֳי¯ע  '× ֽ 	  ÿֹ ÿֹ       ¡ֵ /ָQ°xר –Ù × ’o₪Ý¦ÿ־ְIֲ
+h? #¿וֻ׃¿¾ֻ‰³k ;—שkÚI¾ס£Lr[MI'ף B ³ q 
+  p# p#      ם	ׁ  ³ צ &+o‏ kֿ  F ™Y ׳    p# p#      ü‏ הט  ™ױ ױl Y ­Y ץh  םױ  R Fת   ÿÿÿ ÿÿÿ      «   @־ 
+ F¡X¿nךר״רוך×¸u¸X× 'S £                        7 —ג ‎ט vß ׀ּ µ ל /<^O}ְ¢ְ™–O…YO9)ת Ý =» 3ֲ fײ ף fֹ "’ üe ¦S EU X Ùe ÿ{ °u T† ¦ † ג– ¿¹ ֳ– ױn U ֳn —£ ß 9'F(A¶hַהƒ›|ˆז  N ח0Qq                        	 עo$aIOP9A0,5Oטaחo V q%Ù_                sÛ» ‚%q'q<H´Oֿ]״UװLְ64‘* > /G˜                ה	-	 G‡;/8–D– > ‡w                «3.	 ‘w‡‚›| ~ G©ױ                ov¡¯ X«IץG7Ueoƒ—ִ~ׁ[װ+ֵ‎©½ûָ7ֵ[·x—~qx[[P8P‎Uֿ z |6¾                 ÿÿÿ ÿÿ ‹-|=1“T₪w·›·ֻ×“5‚5$₪¦¼u¼=1&₪ b D‎                        D×Rֱaך€ûֻûÜס׃ךֳםˆסlטbÛX¼ ז ›Ü                !זֲ^/ —©gְע׳Bר`@‰p˜³·½ֻ£כ³®+˜R\©/´ר®מֳשÙ× א›׀ֳJ½(–{"½ֻÚƒ³<§ת׳Q²ר—Qne?Gפ#ִ?±D¹+ֹ#מKD•D†מ R d'ב@                °
+ k'{.4·4Ù.א8ָ>>{8d+ J "ב
+                ¹.!
+ תiהBב#ב"לHלoצ B ¯±חק                =*=P ¯הֱָג±ז½ָ־¯ץ ־ ‘ֶü                 yÊf) ¹!9z¨ֵ	ה¹״ח»%ׁK‘ֶ¡Û¶ׁ«¾ם@}Cױ>ָׁֲתeךֵךcÛcע₪Sל²*R*ֶ}25בßֻהbה!>!$ן5ֲ®-9 r ְׂX                #Dת– בְ‘‘Yצמֿ׃0}‡…ׁפ¥o¥מ½V*K ,,ֲßS‚י B ·û                †bYb y¾/ף·תÛֻ>ˆ V ¶ֿÚ                L‰@' ֿÚlז
+~¡'¶-Gן4c˜¢®ׁ N ֻZ                …¬    	 ׀נן´1‹IY9Ry4´ûÊֻ Þ  ש8                 	׳u
+- g 5×l£‘»Ù×העהײ¶ׂחארר5׃KLKע[‏ע©ז¸זח¿‎´q26 #o#“מ¸ß»©ֶ„ֳ[7Bָ=א'Ûף¿טהפן ןuא‰´l“9 R ©ˆ‎0!                «;0  
+ «ˆ©ד³Êֻ.ü׀¸®ך®½ ^ יf·װ"                  -	ײ
+	 סfיsֵfֱWc—³¶ׂ¬ס]4÷ÿs Z ‰¶ִ_# !               ‚¯ ¯  ‰_¸ֹ*¶ÙֳfÙE=Eֹֶײײ=¾ח R %?ּM$ "               ® -;v
+ E?%?%.LKH2ֳEOֳ2ֻOD : ־@üט% #                ֵ	 Þ@û£ûז־H j ך6¾ÿ& $                ÿך  ÿך 'Fµך-'nֲ½‎״¾Û‰Z6½ßG2(`=`ÿ)0µ86 ‏ ÛÚÜ	' %               ק“¢ֳ5 K	$ֿ,Zd„–כ ÛִÞפרוככ½₪8¶HÝ8üרג(Y
+זÙ[₪ִ}8	b3	“O	ֱ†	ׂֵ	°Û	Wֻ		ÚC	ß		K	יy	דֲ	־	S±	«{	ִS	¶<	H	65	Z‰€ײׂtDWßP±1*Zז0 V ”	Úl
+n( &               ‎״טX ”	זָ	Ú
+דF
+זk
+=+
+l^
+9;
+ץ
+ץ(
+'ט	ז B ֶ	?)
+­) '               ‡   @‚  (
+?
+ָ	’ֶ	‎	«(
+ Z ¥א*	4* (               j„ ®2¥יֶא	ג"	)	'	'	ÿחכ¾י×מ¸2 ¾ F
+ׂם+ )               י÷„% ]
+ײ
+'ZK9ÊÝׁüֵi±כֵ¼ג•ׁtזhq-‚-¢© ­‰>]>6-V¼÷
+va
+ZF
+UW
+H×
+]6˜׃זb0V_ז‚ÊÜƒ=K׃
+/[
+!  ÛÙו;	, *               Êַ ‚ וÜ ֵ¾תWכ	M	$	!	ֻ
+	¢	הÿְ-	»
+4	X	9	(	Û	כצ¦תNתכ<ÛÙ R ™Þו	  +                      
+ ­¨ײ­Kִךה	ִJ¨D£™¼­Þ P ©QQ¹.  ©Q¨hArial ְ#·
+ ְ#´§L[ָo‡    X[®7  "ְ‏  ÿ   7®   This is t Q ©ּ4/ - ©ּchArial ְ#·
+ ְ#´§L[ָo‡    X[®7  "ְ‏  ÿ   7®    in-place n P ©G[¯  . ©G²hArial ְ#·
+ ְ#´§L[ָo‡    X[®7  "ְ‏  ÿ   7®   editing SSן ¢  ` ` .ׂשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÝƒÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנ@ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊ¨ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָˆÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ„@ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏   ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü  |Gÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü  |ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü  (ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü  |ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü üWÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü װCÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü Tÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿü üÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿסÿÿü;ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿü)ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿנממל	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿסÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿü3ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿבUUTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿבUUTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֱÿÿü{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֱÿÿü)ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְ××¨ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֱÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿ™‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֱ]\ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱUTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿֱÿ™‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€®ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿT@ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿT@ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿüְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿנֿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנֿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€ * ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנֿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿׁױױ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿQUUPÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ¼ÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¼ÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€מ¬מטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¼ÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿUUPÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿUUPÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€××¨ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿםÿü‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ]M]\ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿUEUTÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿםÿü‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿמÿüַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿמÿüַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ®®®¬‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿמÿüַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0ÿמÿ£ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿUDUUÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿUDUUÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0ÿמÿ£ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿֿÿ#ÿÿ‏  ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ÿֿÿ#ÿÿ‏  ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ×*×#ÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿֿÿ#ÿÿ‏  ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ÿֿ?ÿsÿÿü1אÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ױֵױSÿÿüְÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ UEUSÿÿü@ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ÿֿ?ÿsÿÿü1אÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ<ÿֿÿsÿÿüנרע?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ<ÿֿÿsÿÿüנרע?ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ,מ־מcÿÿüאטג?ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ<ÿֿÿsÿÿüנרע?ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ¼ÿֿÿÿÿüס‏y?ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ´UEUÿÿüQTQ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´UEUÿÿüQTQ?ÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ¼ÿֿÿÿÿüס‏y?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿֿÿÿÿ‏ר} ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿֿÿÿÿ‏ר} ?ÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ××ÿÿ‏¨j( ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿֿÿÿÿ‏ר} ?ÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÞÿֿֿÿÿÿ‏˜ÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÜ]MM]ÿÿ‏]]ÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿװUEEUÿÿ‏UUÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÞÿֿֿÿÿÿ‏˜ÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿְÿֿֿÿÿÿא=ֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿֿֿÿÿÿא=ֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְ®®ÿÿא.,ֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿֿֿÿÿÿא=ֱÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿאןßÿ?ÿ‏‏=ü?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאUEUU?ÿ‏‏Uü?ÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿאUEUU?ÿ‏‏Uü?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאןßÿ?ÿ‏‏=ü?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתחßÿ?ÿְר8€ÿ‡ÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿתחßÿ?ÿְר8€ÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿת*¢×?ÿְר*(€ÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתחßÿ?ÿְר8€ÿ‡ÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏בÿ?üÿÿ9רנÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏Uֱױ?üÿױרנÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏UAU?üÿױרנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏בÿ?üÿÿ9רנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0?€?נ>‏1ÿ‡‏?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ0?€?נ>‏1ÿ‡‏?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿn n?€?נ>מ!ÿ‡‏?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0?€?נ>‏1ÿ‡‏?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ>x8ÿֱ‏‏ÿאÿַÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿPU8ÿֱ‏װÿאÿַÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿPU8ÿֱ‏װÿאÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>x8ÿֱ‏‏ÿאÿַÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ>€ ?ÿÿ|ÿר?נÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ>€ ?ÿÿ|ÿר?נÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ*€* ?ÿÿ(ÿר?נÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ>€ ?ÿÿ|ÿר?נÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ?ְ	ÿ#üÿÿ‏‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ@	]#üÿÿ‏‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ@	U#üÿÿ‏‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ?ְ	ÿ#üÿÿ‏‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ?ןףÿסÿÿÿÿÿֳÿƒÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ?ןףÿסÿÿÿÿÿֳÿƒÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ.¯ע®סÿÿÿÿÿֳÿƒÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ?ןףÿסÿÿÿÿÿֳÿƒÿÿÿÿÿÿÿÿÿÿÿÿÿÿחדÿ‡ÿÿחÿÿÿנÿ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ•GבU‡ÿÿחÿÿÿנÿ€ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ•GבU‡ÿÿחÿÿÿנÿ€ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿחדÿ‡ÿÿחÿÿÿנÿ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿ?ÿÿÿÿÿÿü8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿ?ÿÿÿÿÿÿü8ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ£×?ÿÿÿÿÿÿü8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿ?ÿÿÿÿÿÿü8ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿרÿ ÿÿÿÿÿÿÿÿ<ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ•׀ױ ÿÿÿÿÿÿÿÿ<ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ•PU ÿÿÿÿÿÿÿÿ<ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿרÿ ÿÿÿÿÿÿÿÿ<ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿַ8ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿַ8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿמממ ÿÿÿÿÿÿÿÿַ8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿַ8ÿÿÿÿ‏ÿÿÿÿÿÿÿÿרßÿÿ‏ÿÿÿÿÿÿÿÿף ÿÿÿÿ‏ÿÿÿÿÿÿÿÿרױUUTÿÿÿÿÿÿÿÿף ÿÿÿÿÿÿÿÿÿÿÿÿÿרױUUTÿÿÿÿÿÿÿÿף ÿÿÿÿ‏ÿÿÿÿÿÿÿÿרÿÿ‏ÿÿÿÿÿÿÿÿף ÿÿÿÿ‏ÿÿÿÿÿÿÿÿַסֿ‏#ÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿַסֿ‏#ÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿַ ×#ÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿְסֿ‏ÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿOר‏Cÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿMX\CÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿEPTCÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿ ר‏Cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿünחÿÿücÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿünחÿÿücÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿünז®®¬cÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿü ÿÿücÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿשUCÿÿרדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿשUAUUPדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿשUAUUPדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿר ÿÿרדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿד»°ÿÿאדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿד»°ÿÿאדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿד»°×× דÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿא  ÿÿאדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿֽUP?ÿֱדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿֽUPױֱדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿֽUPUAדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿְ  ?ÿֱדÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿ¾מ¬ÿƒדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ¾מ¬ÿƒדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ¾מ¬מƒדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ€  ÿƒדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿ‏UUֿד‏ üÿÿחÿÿÿשÿÿÿÿÿÿÿÿÿÿÿ‏UUEד‏ üÿÿחÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿ‏UUEדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿ‏  ֿבÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿס»»»€ְ?ד‏ üÿÿחÿÿÿשÿÿÿÿÿÿÿÿÿÿÿס»»»€ְ?ד‏ üÿÿחÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿס»»»€€?דÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿנ  €ְ?בÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿַUU‏ ?ףÿףףÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿַUU‏ ?ףÿףףÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿÿַUU‏ ?ףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿÿְ  ‏ ?סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿÿממ-ÿ€ףÿףףÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿממ-ÿ€ףÿףףÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿממ-ÿ€ףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿÿ   ÿ€סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿÿUUÿ‡ףÿףענÿח‡ÿÿûÿÿÿÿ‏ÿÿÿÿÿÿUUÿ‡ףÿףענÿח‡ÿÿûÿÿÿÿÿÿÿÿÿÿÿUUÿ€ףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿ    ÿ‡סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿ‏;»»:ÿ€ףÿףנאחÿÿûÿÿÿÿ‏ÿÿÿÿÿ‏;»»:ÿ€ףÿףנאחÿÿûÿÿÿÿ‏ÿÿÿÿÿ‏;»»:ÿ  ףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿ‏    ÿ€סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿüUUףÿףסּֿ?זyÿÿûÿÿÿÿ‏ÿÿÿÿÿüUUףÿףסּֿ?זyÿÿûÿÿÿÿ‏ÿÿÿÿÿüUU ףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿü    סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿרממ‚gsÿףףּֿÿזÿÿûÿÿÿÿ‏ÿÿÿÿÿרממ‚gsÿףףּֿÿזÿÿûÿÿÿÿÿÿÿÿÿÿרממ‚`sÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿר    gqÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿûUU>s³ÿףףֳּÿזÿÿûÿÿÿÿÿÿÿÿÿÿûUU>s³ÿףףֳּÿזÿÿûÿÿÿÿÿÿÿÿÿÿûUU>p³ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿר    >s±ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿף»»»›>û¿ףÿףףּאחÿÿûÿÿÿÿÿÿÿÿÿÿף»»»›>û¿ףÿףףּאחÿÿûÿÿÿÿ‏ÿÿÿÿÿף»»»›>רףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿנ    >û¿סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿסUUUUüףÿףףּü?חבÿÿûÿÿÿÿ‏ÿÿÿÿÿסUUUUüףÿףףּü?חבÿÿûÿÿÿÿ‏ÿÿÿÿÿסUUUUüףÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿנ    üסÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿגממממ‏סÿףףּÿ?חשÿÿûÿÿÿÿ‏ÿÿÿÿÿגממממ‏סÿףףּÿ?חשÿÿûÿÿÿÿ‏ÿÿÿÿÿגממממ‏סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿא    ‏סÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿבUUUQ‏סÿףףּֿ?זyÿÿףÿÿÿÿ‏ÿÿÿÿÿבUUUQ‏סÿףףּֿ?זyÿÿףÿÿÿÿ‏ÿÿÿÿÿבUUUQ‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿא    ‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿֳ»›»±‏סÿףףּאחÿÿףÿÿÿÿÿÿÿÿÿÿֳ»›»±‏סÿףףּאחÿÿףÿÿÿÿ‏ÿÿÿÿÿֳ»›»±‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְ    ‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿֵUEUPG‏'סÿףףּנÿח‡ÿÿףÿÿÿÿÿÿÿÿÿÿֵUEUPG‏'סÿףףּנÿח‡ÿÿףÿÿÿÿÿÿÿÿÿÿֵUEUPG‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְ    ‏'סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ־מזמלח‏cסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ־מזמלח‏cסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ־מזמלח‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְ    ‏cסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿםUQUTS‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿםUQUTS‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿםUQUTS‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא    ‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿד»»»÷1‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿד»»»÷1‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿד»»»÷1‏סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא    ‏qסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿוUQUU‏xסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿוUQUU‏XסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿוUQUU‏ סÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿא     ‏xסÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿעמלממ>|aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿעמלממ>|aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿעמלממ> aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ     >|aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿסUTUUD<aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿסUTUUD4aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿסUTUUD aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ     <aÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ»÷»»¢>!ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿנ»÷»»¢>!ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ»÷»»¢ !ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ     >!ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאTUUQÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאTUUQÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאTUUQ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאמnמ׀€ÿ?ÿÿÿ?ÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאמnמ׀€ÿ?ÿÿÿ?ÿÿÿÿףÿÿÿÿÿÿÿÿÿÿאמnמ׀€ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְUUX@ÿ?ÿÿÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְUUP@ÿ?ÿÿÿ?ÿÿÿÿףÿÿÿÿÿÿÿÿÿÿְUUP@ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְ     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא»;»0‘ÿÿÿÿÿ?ÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא»;»0‘ÿÿÿÿÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿא»;»0 ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿא     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿנ UUN ÿÿÿÿÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ UUL ÿÿÿÿÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ UUD  ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿצמ.מ!ÿ2ש<‡אÿףÿÿÿÿÿÿÿÿÿÿצמ.מ!ÿ2ש<‡אÿףÿÿÿÿÿÿÿÿÿÿצמ.מ !ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿנ     ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿוUU@ Qÿ0ר0ְףÿÿÿÿ‏ÿÿÿÿÿוUU@ Qÿ0ר0ְףÿÿÿÿÿÿÿÿÿÿוUU@ Qÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿא      ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿכ»‹‹»8 3ÿ1ֿרח3ֿ1־ףÿÿÿÿÿÿÿÿÿÿכ»‹‹»8 3ÿ1ֿרח3ֿ1־ףÿÿÿÿ‏ÿÿÿÿÿכ»‹‹»8 3ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿא      ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿֵUEUU Sÿ3ֿשף?־y?ףÿÿÿÿ‏ÿÿÿÿÿֵUEUU Sÿ3ֿשף?־y?ףÿÿÿÿ‏ÿÿÿÿÿֵUEUU Sÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿְ      ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ־מג†ממְcÿ3ֿשף?€?ףÿÿÿÿ‏ÿÿÿÿÿ־מג†ממְcÿ3ֿשף?€?ףÿÿÿÿ‏ÿÿÿÿÿ־מג†ממְcÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿְ      ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ•UPTUPÿ3ָף8€?ףÿÿÿÿ‏ÿÿÿÿÿ•UPTUPÿ3ָף8€?ףÿÿÿÿÿÿÿÿÿÿ•UPTUPÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ€      ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ³»¸¸=»¸3ÿ3ָף0־ÿףÿÿÿÿ‏ÿÿÿÿÿ³»¸¸=»¸3ÿ3ָף0־ÿףÿÿÿÿ‏ÿÿÿÿÿ³»¸¸)»¸3ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ€    <  ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ@Q‎UUÿ3ֿשף3־yÿףÿÿÿÿ‏ÿÿÿÿÿ@Q]UUÿ3ֿשף3־yÿףÿÿÿÿ‏ÿÿÿÿÿ@QUUUÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ    ü  ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿמ  חרמְÿ3ֿרח31־?ףÿÿÿÿ‏ÿÿÿÿÿמ  חרמְÿ3ֿרח31־?ףÿÿÿÿ‏ÿÿÿÿÿמ  ז¨מְÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ    ר @ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏U  ‏  ÿ3ֿר0ְףÿÿÿÿ‏ÿÿÿÿ‏U  T  ÿ3ֿר0ְףÿÿÿÿ‏ÿÿÿÿ‏U  T  ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏    ‏  ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏;»»ÿÿÿֳÿ3ֿש8g‡אÿףÿÿÿÿÿÿÿÿÿ‏;»»ÿÿÿֳÿ3ֿש8g‡אÿףÿÿÿÿ‏ÿÿÿÿ‏;»»×××ƒÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏    ÿÿÿֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏UUUU_ÿÿÿֳÿÿÿשÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏UUUUUױױױֳÿÿÿשÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏UUUUUUUUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏    ÿÿÿֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏nמממÿÿÿדÿÿÿשÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏nמממÿÿÿדÿÿÿשÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏nממממממדÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏    ÿÿÿדÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏UUUUÿÿÿֳÿÿÿשÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏UUUUUUUCÿÿÿשÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏UUUUUUUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏    ÿÿÿֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏;»»»?ÿÿ ÿÿÿשÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏;»»»?ÿÿ ÿÿÿשÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏;»»»*×× ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏    ?ÿÿ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏UUUU?ÿנ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏UUUU]P ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏UUUUUP ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏    ?ÿנ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏nמממÿְמֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿ‏nמממÿְמֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏nמממ.®€מֳÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿ‏    ÿְ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿUUTÿֵUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿUUTUUEUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿUUTUUEUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ    ÿְ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ;»»¸ÿֳ»£ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ;»»¸ÿֳ»£ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ;»»¸*×ƒ»£ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ    ÿְ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ•UUTÿֱUCÿÿÿּÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ•UUTUױֱUCÿÿÿּÿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ•UUTUUAUCÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿ€   ÿְ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿממלÿ†מדÿÿÿּֿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿממלÿ†מדÿÿÿּֿ?ÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿממלnמ†מדÿÿÿÿÿÿÿÿÿÿףÿÿÿÿ‏ÿÿÿÿÿ€   ÿ€ ÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿֵUUTÿ…UCÿÿÿֿֿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿֵUUTUUUCÿÿÿֿֿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿֵUUTUUUCÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿְ   ÿ€ ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿֳ»»¸ÿƒ»³ÿÿÿֿֿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿֳ»»¸ÿƒ»³ÿÿÿֿֿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿֳ»»¸*×ƒ»³ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿְ   ÿ€ ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿבUTÿ…USÿֱרLƒ2	ÿÿûÿÿÿÿ‏ÿÿÿÿÿבUT]]USÿֱרLƒ2	ÿÿûÿÿÿÿ‏ÿÿÿÿÿבUTUUUSÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿא   ÿ€ ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿגְלÿמדÿ€נƒ0ÿÿûÿÿÿÿ‏ÿÿÿÿÿגְלÿמדÿ€נƒ0ÿÿûÿÿÿÿ‏ÿÿÿÿÿגְל.®מדÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿא   ÿ  ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿנ T‏USÿףֿ1־qÿÿûÿÿÿÿ‏ÿÿÿÿÿנ TUTUSÿףֿ1־qÿÿûÿÿÿÿ‏ÿÿÿÿÿנ TUTUSÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿנ   ‏  ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿר  ¸‏;»³ÿ>gּֿ3ּשÿÿûÿÿÿÿ‏ÿÿÿÿÿר  ¸‏;»³ÿ>gּֿ3ּשÿÿûÿÿÿÿÿÿÿÿÿÿר  ¸j×;»³ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿ‏ÿÿÿÿÿר   ‏  ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿü  PüUSÿ gּֿ3ּשÿÿûÿÿÿÿÿÿÿÿÿÿü  PװUSÿ gּֿ3ּשÿÿûÿÿÿÿ‏ÿÿÿÿÿü  PTUSÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿü   ü  ÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿ‏     ממדÿ gּֿ3ּשÿÿשÿÿÿÿ‏ÿÿÿÿÿ‏     ממדÿ gּֿ3ּשÿÿשÿÿÿÿ‏ÿÿÿÿÿ‏     ממדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿ‏       ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿא UUSÿ?חּֿ3ּשÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿא UUSÿ?חּֿ3ּשÿÿשÿÿÿÿÿÿÿÿÿÿÿÿא UUSÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿא     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ‏ »»»³ÿ?חּֿ3ּשÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ‏ »»»³ÿ?חּֿ3ּשÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ‏ »»»³ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿ‏     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ”UUUSÿsֿ3־qÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ”UUUSÿsֿ3־qÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ”UUUSÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€    ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿממממדÿ€נֳ3־ÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿממממדÿ€נֳ3־ÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿממממדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€    ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ•UUUUCÿֱרLד3ֿ	ÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ•UUUUCÿֱרLד3ֿ	ÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ•UUUUCÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€    ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ;»»»»£ÿÿÿÿÿÿÿשÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ;»»»»£ÿÿÿÿÿÿÿשÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ;»»»»£ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿüסÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿüסÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ.ממממדÿÿÿÿÿÿüÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ.ממממדÿÿÿÿÿÿüÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ.ממממדÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿUUUUCÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ;»»»»§ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿ;»»»»§ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ;»»»»§ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿ‏UUUUUÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿ‏UUUUUÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿ‏UUUUUÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿ‏     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿ‏nממממgÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿ‏nממממgÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿ‏nממממgÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿ‏     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿüUUUUTGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿüUUUUTGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿüUUUUTGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿü     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿü»»»»¹§ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿü»»»»¹§ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿü»»»»¹§ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿü     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿשUUUUAGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿשUUUUAGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿשUUUUAGÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿר     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿרממממחÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿרממממחÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿרממממחÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿר     ÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿ‏ÿÿÿÿÿÿÿüUUU GÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿüUUU GÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿüUUU Gÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿü     ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿ‏;»  ;§ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿ‏;»  ;§ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿ‏;»  ;§ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿ‏     ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿ   UGÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿ   UGÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿ   UGÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿ     ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿ€  ממחÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿ€  ממחÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿ€  ממחÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿ€    ÿÿÿÿÿÿÿÿÿÿüÿÿÿÿ‏ÿÿÿÿÿÿÿÿנ UUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿנ UUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿנ UUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿנ    ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ»»»§ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ»»»§ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ»»»§ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ    ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUGÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־מממַÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ־מממַÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־מממַÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿÿÿÿÿÿÿֻ»»»ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿֻ»»»ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿֻ»»»ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿֵUUUOÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ־מממֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ־מממֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ־מממֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿְ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿױUUU@ÿÿÿÿÿÿÿÿ‏ ÿÿÿÿÿÿÿÿÿÿÿÿÿױUUU@ÿÿÿÿÿÿÿÿ‏ ÿÿÿÿÿÿÿÿÿÿÿÿÿױUUU@ÿÿÿÿÿÿÿÿ‏ ÿÿÿÿÿÿÿÿÿÿÿÿÿְ    ÿÿÿÿÿÿÿÿ‏ ÿÿÿ‏ÿÿÿÿÿÿÿÿÿû»»»€ ÿÿÿÿÿ‏  ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿû»»»€ ÿÿÿÿÿ‏  ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿû»»»€ ÿÿÿÿÿ‏  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€     ÿÿÿÿÿ‏  ÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿױUUUUp         ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿױUUUUp         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױUUUUp         ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ€              ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      ?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      ?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      ?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿ€            ?ÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿSM                 SSס D ` ` .ׂשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿםÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿװÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׃ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÙÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿגÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׃ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׃ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ״ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÙÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÝÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ״ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ״ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÛÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׂÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÙÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׂÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÙÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׃ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿגÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿםÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿגÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿגÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿװÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÝÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׃ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿגÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿױÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿוÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ״ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÝÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿװÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׂÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿםÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׂÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿײÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÛÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿאÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ״ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÝÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ־ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿִÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֲÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿׁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׳ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֵÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿיÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֽÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֹÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿבÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֶÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿּÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֻÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿנÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֱÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿךÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿץÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ׀ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿהÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿלÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÝÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿזÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿטÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿרÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿָÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿך
+[Embedded]
+71 .sdw 33550 10342 43892 9066 
+52 .sdw 52958 4981 57939 19458 
+74 .sdw 77397 22 77419 65570 
+00142991
